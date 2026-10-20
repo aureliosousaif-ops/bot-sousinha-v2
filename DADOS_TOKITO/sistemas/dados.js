@@ -127,7 +127,11 @@ const gitBlobSha = buffer => crypto.createHash('sha1')
 .update(`blob ${buffer.length}\0`)
 .update(buffer)
 .digest('hex')
-const config = () => readJson(CONFIG_FILE, {})
+const config = () => {
+const local = readJson(CONFIG_FILE, {})
+const apiKey = String(process.env.API_KEY_TOKITO || local.API_KEY_TOKITO || '').trim()
+return apiKey ? { ...local, API_KEY_TOKITO: apiKey } : local
+}
 function versaoPublica(info = {}) {
   const real = String(info.version || '10.0.0').trim()
   const publica = String(info.publicVersion || '').trim()

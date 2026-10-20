@@ -54,6 +54,7 @@ const logger = pino({ level: 'silent' })
 
 const rl = runtimeSub.isSubBot ? null : readline.createInterface({ input: process.stdin, output: process.stdout })
 const question = text => (runtimeSub.isSubBot ? Promise.resolve('') : new Promise(resolve => rl.question(text, resolve)))
+const ambienteSemTerminal = () => Boolean(process.env.RENDER || process.env.RENDER_SERVICE_ID || process.env.NODE_ENV === 'production')
 
 const msgRetryCounterCache = new NodeCache()
 const fotos = new NodeCache({ stdTTL: 1800, checkperiod: 60 })
@@ -116,6 +117,12 @@ return dados
 }
 
 const salvarConfigBot = config => {
+if (process.env.API_KEY_TOKITO) {
+const salvo = lerConfigBot()
+config = { ...config }
+if (salvo.API_KEY_TOKITO) config.API_KEY_TOKITO = salvo.API_KEY_TOKITO
+else delete config.API_KEY_TOKITO
+}
 fs.writeFileSync(CONFIG_FILE, JSON.stringify(config, null, 2) + '\n')
 recarregarConfigBot()
 try {
@@ -325,7 +332,11 @@ global.__TOKITO_UPDATE_NOTICE_TIMER__.unref?.()
 }
 
 async function startPairing(tokito) {
-const phoneNumber = runtimeSub.isSubBot ? String(process.env.TOKITO_SUB_NUMBER || runtimeSub.id || '') : await question(colors.white('╰━━➤ Digite o número com DDI: '))
+const phoneNumber = runtimeSub.isSubBot
+? String(process.env.TOKITO_SUB_NUMBER || runtimeSub.id || '')
+: ambienteSemTerminal()
+? String(process.env.TOKITO_PAIRING_NUMBER || process.env.TOKITO_NUMBER || '')
+: await question(colors.white('╰━━➤ Digite o número com DDI: '))
 const numerosColetados = collectNumbers(phoneNumber)
 if (!numerosColetados || numerosColetados.length < 11) {
 if (runtimeSub.isSubBot) {
@@ -493,6 +504,16 @@ info(`Token salvo: ${tokenMascarado(API_KEY_TOKITO)}`)
 async function solicitarToken() {
 console.log('')
 aviso('Não foi possível iniciar o bot porque nenhum Token Tokito válido foi encontrado.')
+if (ambienteSemTerminal()) {
+erro('Configure a variável secreta API_KEY_TOKITO no Render. O modo hospedagem não solicita token pelo terminal.')
+return {
+allowed: false,
+online: true,
+definitive: true,
+code: 'TOKEN_REQUIRED',
+message: 'API_KEY_TOKITO ausente ou inválida no ambiente de hospedagem.'
+}
+}
 console.log(colors.yellow.bold('⚠️  Seu token é pessoal. Não envie, compartilhe ou publique ele.'))
 console.log(colors.gray('Se você ainda não possui um token, crie sua conta e ative um plano em:'))
 console.log(colors.cyan('https://tokito-apis.com.br'))
@@ -537,6 +558,7 @@ return acesso
 }
 if (acesso.online === true) {
 erro(acesso.message || 'O token salvo não possui um plano ativo.')
+if (ambienteSemTerminal()) return acesso
 const config = lerConfigBot()
 config.API_KEY_TOKITO = ''
 salvarConfigBot(config)
@@ -1258,7 +1280,17 @@ erro(`Não foi possível liberar o acesso: ${acesso?.message || acesso?.code || 
 process.exit(24)
 return
 }
-if (!sessaoRegistrada() || process.argv.includes('painel')) await showMenu()
+if (ambienteSemTerminal()) {
+if (!sessaoRegistrada()) {
+const numero = collectNumbers(process.env.TOKITO_PAIRING_NUMBER || process.env.TOKITO_NUMBER || '')
+if (numero.length < 11) {
+erro('Sessão do WhatsApp não encontrada. Configure TOKITO_PAIRING_NUMBER com DDI para gerar o código de pareamento.')
+process.exit(25)
+return
+}
+metodo = 'codigo'
+}
+} else if (!sessaoRegistrada() || process.argv.includes('painel')) await showMenu()
 placar.ciclo(resultado => {
 if (!resultado?.definitive) return
 erro(`A licença foi recusada pelo servidor: ${resultado.message || resultado.code || 'acesso bloqueado'}`)

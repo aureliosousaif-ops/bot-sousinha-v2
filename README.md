@@ -66,6 +66,21 @@
 
 <br>
 
+### Render sem terminal
+
+No Render, configure as variáveis secretas no painel do serviço. Nunca coloque os valores reais no GitHub, no `config-all.example.json` ou em commits:
+
+```text
+API_KEY_TOKITO=tokito_seu_token_pessoal
+TOKITO_PAIRING_NUMBER=5511999999999
+```
+
+`API_KEY_TOKITO` é validada pela Tokito APIs e exige um plano ativo. `TOKITO_PAIRING_NUMBER` é opcional quando a sessão do WhatsApp já estiver disponível; em uma sessão nova, informe o número com DDI para o bot gerar o código de pareamento sem solicitar entrada pelo terminal. A sessão e as credenciais devem ser persistidas em armazenamento adequado da hospedagem e nunca versionadas.
+
+O comando de início do serviço é `npm start` (ou `node tokito.js`). Se o token estiver ausente, inválido ou sem plano, o processo encerra com uma mensagem clara e não tenta abrir um prompt interativo.
+
+---
+
 Para utilizar o **TokitoBot-V10 em uma hospedagem**, você precisa possuir um servidor compatível com Node.js.
 
 ### 🧊 PASSO 1

@@ -68,14 +68,16 @@ const subConfig = () => {
 
 const config = () => {
   const main = globalConfig()
-  if (!isSubBot || !id) return main
+  const apiKey = String(process.env.API_KEY_TOKITO || main.API_KEY_TOKITO || '').trim()
+  const configMain = apiKey ? { ...main, API_KEY_TOKITO: apiKey } : main
+  if (!isSubBot || !id) return configMain
 
   const local = subConfig()
   const channel = String(local.channel || '0@newsletter')
 
   return {
-    ...main,
-    prefix: String(local.prefix || main.prefix || '!'),
+    ...configMain,
+    prefix: String(local.prefix || configMain.prefix || '!'),
     channel,
     channeldl: channel,
     ownerNumber: owner() || main.ownerNumber || ''
