@@ -37,6 +37,12 @@
 
 ---
 
+## Sousinha Bot Premium
+
+Esta distribuição utiliza a identidade visual **Sousinha Bot**, personalizada por **Sousax7**, sobre o projeto-base TokitoBot V10. O **autor original é Dylan Modz**; seus créditos e a licença original permanecem preservados.
+
+O recurso visual oficial do bot está em `DADOS_TOKITO/INFO_DADOS/LOGOS/fotomenu.png` e é usado pelo menu principal quando a mídia está disponível.
+
 ## 🧊 ATENÇÃO
 
 > [!IMPORTANT]

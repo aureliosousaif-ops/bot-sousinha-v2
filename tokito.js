@@ -728,32 +728,38 @@ const isWelkom3 = isGroup ? Boolean(dataGp?.[0]?.wellcome?.[2]?.bemvindo3) : und
 const limpo = valor => {
 let txt = String(valor || '').trim()
 if (!txt) return ''
-if (txt.endsWith('@c.us')) txt = txt.replace('@c.us', '@s.whatsapp.net')
+if (txt.endsWith('@c.us')) txt = txt.replace(/@c\.us$/, '@s.whatsapp.net')
 const pos = txt.indexOf('@')
 if (pos < 0) {
 const numero = txt.replace(/\D/g, '')
 return numero ? `${numero}@s.whatsapp.net` : txt
 }
 const usuario = txt.slice(0, pos).split(':')[0]
-const servidor = txt.slice(pos + 1)
+const servidor = txt.slice(pos + 1).toLowerCase()
 return usuario && servidor ? `${usuario}@${servidor}` : txt
 }
-const nJid = (alvo, extras = []) => {
-let bruto = alvo
-if (bruto && typeof bruto === 'object') {
-bruto = bruto.phoneNumber || bruto.participantAlt || bruto.participantAlt || bruto.jid || bruto.id || bruto.participant || bruto.lid || ''
+const camposJid = valor => {
+if (!valor || typeof valor !== 'object') return [valor]
+return [
+valor.phoneNumber,
+valor.participantPn,
+valor.participantAlt,
+valor.senderAlt,
+valor.jid,
+valor.id,
+valor.participant,
+valor.lid
+]
 }
-const lista = [...extras, bruto].map(limpo).filter(Boolean)
-const numero = lista.find(v => v.endsWith('@s.whatsapp.net'))
+const nJid = (alvo, extras = []) => {
+const candidatos = [...extras, ...camposJid(alvo)].map(limpo).filter(Boolean)
+const numero = candidatos.find(v => v.endsWith('@s.whatsapp.net'))
 if (numero) return jidNormalizedUser(numero)
-const atual = limpo(bruto)
+const atual = candidatos[0] || ''
 if (!atual) return ''
 if (atual.endsWith('@lid') && groupMembers.length) {
-const membro = groupMembers.find(v => {
-const ids = [v?.lid, v?.id, v?.jid, v?.participant].map(limpo)
-return ids.includes(atual)
-})
-const real = [membro?.phoneNumber, membro?.participantAlt, membro?.participantAlt, membro?.jid, membro?.id].map(limpo).find(v => v.endsWith('@s.whatsapp.net'))
+const membro = groupMembers.find(v => camposJid(v).map(limpo).filter(Boolean).includes(atual))
+const real = camposJid(membro).map(limpo).find(v => v.endsWith('@s.whatsapp.net'))
 if (real) return jidNormalizedUser(real)
 }
 return jidNormalizedUser(atual)
@@ -798,8 +804,9 @@ const numeroInstanciaSub = runtimeSub.digits(runtimeSub.id)
 const donoSubPeloSender = Boolean(donoSubRegistrado) && numeroSenderSub === donoSubRegistrado
 const donoSubPelaPropriaConta = info.key?.fromMe === true && Boolean(donoSubRegistrado) && (numeroContaSub === donoSubRegistrado || numeroInstanciaSub === donoSubRegistrado)
 const isSubOwner = runtimeSub.isSubBot && (donoSubPeloSender || donoSubPelaPropriaConta)
-const SoDono = numerodono.includes(sender) || isSubOwner || isBot
-const DonoOficial = runtimeSub.isSubBot ? isSubOwner : nmrdn ? nmrdn === sender : false
+const donoPorNumero = numerodono.some(numero => nJid(numero) === senderNormalizado)
+const SoDono = donoPorNumero || isSubOwner
+const DonoOficial = runtimeSub.isSubBot ? isSubOwner : Boolean(nmrdn && nJid(nmrdn) === senderNormalizado)
 const groupAdmins = isGroup ? getGroupAdmins(groupMembers) : []
 const membrosGrupo = isGroup ? getMembros(groupMembers) : []
 const adminsNormalizados = groupAdmins.map(admin => nJid(admin)).filter(Boolean)
