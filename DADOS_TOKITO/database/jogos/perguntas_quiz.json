@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Qual e a metade de 38?",
+    "opcoes": [
+      "19",
+      "18",
+      "21",
+      "20"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 2,
+    "pergunta": "Quanto e 107 - 9?",
+    "opcoes": [
+      "99",
+      "98",
+      "97",
+      "108"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 3,
+    "pergunta": "Qual e o dobro de 59?",
+    "opcoes": [
+      "116",
+      "123",
+      "118",
+      "120"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 4,
+    "pergunta": "Quanto e 109 - 33?",
+    "opcoes": [
+      "77",
+      "76",
+      "75",
+      "81"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 5,
+    "pergunta": "Qual e a metade de 176?",
+    "opcoes": [
+      "90",
+      "87",
+      "89",
+      "88"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 6,
+    "pergunta": "Qual e o dobro de 40?",
+    "opcoes": [
+      "85",
+      "78",
+      "80",
+      "82"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 7,
+    "pergunta": "Quanto e 10 x 6?",
+    "opcoes": [
+      "59",
+      "70",
+      "60",
+      "66"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 8,
+    "pergunta": "Quanto e 98 + 25?",
+    "opcoes": [
+      "120",
+      "124",
+      "123",
+      "122"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 9,
+    "pergunta": "Qual e a raiz quadrada de 9?",
+    "opcoes": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 10,
+    "pergunta": "Quanto e 76 dividido por 4?",
+    "opcoes": [
+      "20",
+      "18",
+      "19",
+      "21"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 11,
+    "pergunta": "Qual e o dobro de 29?",
+    "opcoes": [
+      "56",
+      "63",
+      "58",
+      "60"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 12,
+    "pergunta": "Qual e a raiz quadrada de 121?",
+    "opcoes": [
+      "10",
+      "13",
+      "11",
+      "12"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 13,
+    "pergunta": "Quanto e 160 dividido por 10?",
+    "opcoes": [
+      "16",
+      "15",
+      "17",
+      "18"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 14,
+    "pergunta": "Quanto e 8 x 10?",
+    "opcoes": [
+      "90",
+      "80",
+      "79",
+      "88"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 15,
+    "pergunta": "Qual e o dobro de 98?",
+    "opcoes": [
+      "201",
+      "196",
+      "198",
+      "194"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 16,
+    "pergunta": "Quanto e 190 dividido por 10?",
+    "opcoes": [
+      "20",
+      "19",
+      "21",
+      "18"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 17,
+    "pergunta": "Quanto e 260 - 3?",
+    "opcoes": [
+      "256",
+      "255",
+      "258",
+      "257"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 18,
+    "pergunta": "Quanto e 283 - 37?",
+    "opcoes": [
+      "246",
+      "247",
+      "256",
+      "245"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 19,
+    "pergunta": "Quanto e 96 dividido por 16?",
+    "opcoes": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 20,
+    "pergunta": "Qual e a metade de 152?",
+    "opcoes": [
+      "77",
+      "75",
+      "76",
+      "78"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 21,
+    "pergunta": "Qual e o dobro de 56?",
+    "opcoes": [
+      "110",
+      "112",
+      "114",
+      "117"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 22,
+    "pergunta": "Qual e o dobro de 68?",
+    "opcoes": [
+      "134",
+      "141",
+      "136",
+      "138"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 23,
+    "pergunta": "Quanto e 210 - 11?",
+    "opcoes": [
+      "200",
+      "209",
+      "198",
+      "199"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 24,
+    "pergunta": "Quanto e 224 dividido por 14?",
+    "opcoes": [
+      "15",
+      "17",
+      "16",
+      "18"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 25,
+    "pergunta": "Qual e a metade de 194?",
+    "opcoes": [
+      "97",
+      "96",
+      "99",
+      "98"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 26,
+    "pergunta": "Qual e a raiz quadrada de 144?",
+    "opcoes": [
+      "12",
+      "14",
+      "11",
+      "13"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 27,
+    "pergunta": "Quanto e 166 - 1?",
+    "opcoes": [
+      "166",
+      "175",
+      "165",
+      "164"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual e o dobro de 18?",
+    "opcoes": [
+      "34",
+      "38",
+      "36",
+      "41"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 29,
+    "pergunta": "Quanto e 145 - 49?",
+    "opcoes": [
+      "96",
+      "97",
+      "95",
+      "91"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 30,
+    "pergunta": "Quanto e 10 dividido por 2?",
+    "opcoes": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 31,
+    "pergunta": "Quanto e 62 + 146?",
+    "opcoes": [
+      "208",
+      "209",
+      "207",
+      "198"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 32,
+    "pergunta": "Qual e a raiz quadrada de 16?",
+    "opcoes": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 33,
+    "pergunta": "Qual e o dobro de 26?",
+    "opcoes": [
+      "54",
+      "50",
+      "52",
+      "57"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 34,
+    "pergunta": "Quanto e 287 - 35?",
+    "opcoes": [
+      "262",
+      "252",
+      "251",
+      "253"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 35,
+    "pergunta": "Quanto e 208 dividido por 13?",
+    "opcoes": [
+      "15",
+      "18",
+      "17",
+      "16"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 36,
+    "pergunta": "Quanto e 66 - 22?",
+    "opcoes": [
+      "44",
+      "34",
+      "43",
+      "45"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 37,
+    "pergunta": "Quanto e 19 + 182?",
+    "opcoes": [
+      "202",
+      "200",
+      "201",
+      "211"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 38,
+    "pergunta": "Quanto e 85 + 19?",
+    "opcoes": [
+      "109",
+      "103",
+      "104",
+      "105"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 39,
+    "pergunta": "Quanto e 188 - 9?",
+    "opcoes": [
+      "178",
+      "180",
+      "189",
+      "179"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 40,
+    "pergunta": "Qual e a raiz quadrada de 225?",
+    "opcoes": [
+      "15",
+      "17",
+      "16",
+      "14"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 41,
+    "pergunta": "Qual e a metade de 120?",
+    "opcoes": [
+      "61",
+      "60",
+      "59",
+      "62"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 42,
+    "pergunta": "Quanto e 15 dividido por 3?",
+    "opcoes": [
+      "5",
+      "7",
+      "4",
+      "6"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 43,
+    "pergunta": "Qual e a raiz quadrada de 25?",
+    "opcoes": [
+      "5",
+      "7",
+      "6",
+      "4"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 44,
+    "pergunta": "Qual e o dobro de 62?",
+    "opcoes": [
+      "129",
+      "126",
+      "124",
+      "122"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 45,
+    "pergunta": "Quanto e 16 x 9?",
+    "opcoes": [
+      "143",
+      "144",
+      "153",
+      "160"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 46,
+    "pergunta": "Quanto e 167 + 139?",
+    "opcoes": [
+      "307",
+      "305",
+      "306",
+      "296"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 47,
+    "pergunta": "Quanto e 289 dividido por 17?",
+    "opcoes": [
+      "19",
+      "18",
+      "17",
+      "16"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 48,
+    "pergunta": "Quanto e 147 - 1?",
+    "opcoes": [
+      "148",
+      "146",
+      "147",
+      "145"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 49,
+    "pergunta": "Quanto e 323 dividido por 19?",
+    "opcoes": [
+      "19",
+      "17",
+      "18",
+      "16"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 50,
+    "pergunta": "Quanto e 297 - 4?",
+    "opcoes": [
+      "293",
+      "294",
+      "292",
+      "298"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 51,
+    "pergunta": "Quanto e 13 + 150?",
+    "opcoes": [
+      "163",
+      "162",
+      "166",
+      "164"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 52,
+    "pergunta": "Qual e a raiz quadrada de 49?",
+    "opcoes": [
+      "6",
+      "7",
+      "9",
+      "8"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 53,
+    "pergunta": "Qual e a metade de 230?",
+    "opcoes": [
+      "117",
+      "116",
+      "115",
+      "114"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 54,
+    "pergunta": "Qual e o dobro de 36?",
+    "opcoes": [
+      "70",
+      "72",
+      "77",
+      "74"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 55,
+    "pergunta": "Quanto e 400 dividido por 20?",
+    "opcoes": [
+      "20",
+      "21",
+      "19",
+      "22"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 56,
+    "pergunta": "Qual e a metade de 192?",
+    "opcoes": [
+      "96",
+      "95",
+      "97",
+      "98"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 57,
+    "pergunta": "Quanto e 66 dividido por 6?",
+    "opcoes": [
+      "13",
+      "12",
+      "10",
+      "11"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 58,
+    "pergunta": "Quanto e 118 + 160?",
+    "opcoes": [
+      "279",
+      "277",
+      "278",
+      "283"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 59,
+    "pergunta": "Qual e o dobro de 38?",
+    "opcoes": [
+      "81",
+      "78",
+      "76",
+      "74"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 60,
+    "pergunta": "Quanto e 144 - 19?",
+    "opcoes": [
+      "120",
+      "126",
+      "124",
+      "125"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 61,
+    "pergunta": "Qual e o dobro de 108?",
+    "opcoes": [
+      "216",
+      "214",
+      "221",
+      "218"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 62,
+    "pergunta": "Qual e a metade de 36?",
+    "opcoes": [
+      "20",
+      "19",
+      "18",
+      "17"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 63,
+    "pergunta": "Quanto e 191 + 142?",
+    "opcoes": [
+      "333",
+      "328",
+      "334",
+      "332"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 64,
+    "pergunta": "Qual e a metade de 96?",
+    "opcoes": [
+      "49",
+      "48",
+      "50",
+      "47"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 65,
+    "pergunta": "Qual e o dobro de 67?",
+    "opcoes": [
+      "132",
+      "134",
+      "136",
+      "139"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 66,
+    "pergunta": "Qual e a metade de 118?",
+    "opcoes": [
+      "58",
+      "59",
+      "60",
+      "61"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 67,
+    "pergunta": "Quanto e 6 x 10?",
+    "opcoes": [
+      "66",
+      "60",
+      "59",
+      "70"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 68,
+    "pergunta": "Qual e o dobro de 95?",
+    "opcoes": [
+      "188",
+      "192",
+      "195",
+      "190"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 69,
+    "pergunta": "Quanto e 20 + 177?",
+    "opcoes": [
+      "196",
+      "197",
+      "198",
+      "192"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 70,
+    "pergunta": "Quanto e 18 dividido por 6?",
+    "opcoes": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 71,
+    "pergunta": "Quanto e 8 x 9?",
+    "opcoes": [
+      "72",
+      "71",
+      "81",
+      "80"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 72,
+    "pergunta": "Qual e o dobro de 100?",
+    "opcoes": [
+      "200",
+      "205",
+      "202",
+      "198"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 73,
+    "pergunta": "Quanto e 14 dividido por 2?",
+    "opcoes": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 74,
+    "pergunta": "Quanto e 7 x 5?",
+    "opcoes": [
+      "34",
+      "40",
+      "42",
+      "35"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 75,
+    "pergunta": "Quanto e 101 - 30?",
+    "opcoes": [
+      "72",
+      "71",
+      "69",
+      "70"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 76,
+    "pergunta": "Quanto e 169 + 50?",
+    "opcoes": [
+      "219",
+      "222",
+      "220",
+      "218"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 77,
+    "pergunta": "Qual e a raiz quadrada de 100?",
+    "opcoes": [
+      "11",
+      "9",
+      "10",
+      "12"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 78,
+    "pergunta": "Qual e a metade de 224?",
+    "opcoes": [
+      "111",
+      "112",
+      "113",
+      "114"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 79,
+    "pergunta": "Quanto e 7 x 20?",
+    "opcoes": [
+      "160",
+      "140",
+      "147",
+      "139"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 80,
+    "pergunta": "Qual e o dobro de 60?",
+    "opcoes": [
+      "122",
+      "118",
+      "120",
+      "125"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 81,
+    "pergunta": "Quanto e 90 dividido por 18?",
+    "opcoes": [
+      "4",
+      "6",
+      "7",
+      "5"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 82,
+    "pergunta": "Quanto e 3 x 15?",
+    "opcoes": [
+      "60",
+      "45",
+      "44",
+      "48"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 83,
+    "pergunta": "Quanto e 15 x 4?",
+    "opcoes": [
+      "75",
+      "64",
+      "60",
+      "59"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 84,
+    "pergunta": "Qual e a metade de 226?",
+    "opcoes": [
+      "113",
+      "112",
+      "115",
+      "114"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 85,
+    "pergunta": "Qual e o dobro de 44?",
+    "opcoes": [
+      "90",
+      "93",
+      "86",
+      "88"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 86,
+    "pergunta": "Qual e a metade de 84?",
+    "opcoes": [
+      "44",
+      "42",
+      "43",
+      "41"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 87,
+    "pergunta": "Qual e a metade de 106?",
+    "opcoes": [
+      "54",
+      "53",
+      "55",
+      "52"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 88,
+    "pergunta": "Quanto e 38 dividido por 19?",
+    "opcoes": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 89,
+    "pergunta": "Quanto e 240 dividido por 20?",
+    "opcoes": [
+      "13",
+      "14",
+      "11",
+      "12"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 90,
+    "pergunta": "Qual e a metade de 64?",
+    "opcoes": [
+      "31",
+      "33",
+      "34",
+      "32"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 91,
+    "pergunta": "Qual e a metade de 30?",
+    "opcoes": [
+      "16",
+      "14",
+      "15",
+      "17"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 92,
+    "pergunta": "Quanto e 193 + 61?",
+    "opcoes": [
+      "255",
+      "254",
+      "264",
+      "253"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 93,
+    "pergunta": "Quanto e 56 - 3?",
+    "opcoes": [
+      "54",
+      "48",
+      "52",
+      "53"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 94,
+    "pergunta": "Quanto e 300 dividido por 15?",
+    "opcoes": [
+      "21",
+      "20",
+      "22",
+      "19"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 95,
+    "pergunta": "Quanto e 126 dividido por 14?",
+    "opcoes": [
+      "9",
+      "10",
+      "11",
+      "8"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 96,
+    "pergunta": "Quanto e 95 - 45?",
+    "opcoes": [
+      "51",
+      "49",
+      "55",
+      "50"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 97,
+    "pergunta": "Quanto e 96 dividido por 6?",
+    "opcoes": [
+      "17",
+      "16",
+      "15",
+      "18"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 98,
+    "pergunta": "Qual e a raiz quadrada de 361?",
+    "opcoes": [
+      "21",
+      "18",
+      "20",
+      "19"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 99,
+    "pergunta": "Quanto e 90 dividido por 10?",
+    "opcoes": [
+      "10",
+      "8",
+      "9",
+      "11"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 100,
+    "pergunta": "Qual e a metade de 70?",
+    "opcoes": [
+      "35",
+      "36",
+      "34",
+      "37"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 101,
+    "pergunta": "Qual e a metade de 82?",
+    "opcoes": [
+      "42",
+      "43",
+      "41",
+      "40"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 102,
+    "pergunta": "Quanto e 19 x 4?",
+    "opcoes": [
+      "76",
+      "75",
+      "95",
+      "80"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 103,
+    "pergunta": "Quanto e 48 dividido por 6?",
+    "opcoes": [
+      "8",
+      "10",
+      "7",
+      "9"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 104,
+    "pergunta": "Quanto e 19 x 16?",
+    "opcoes": [
+      "320",
+      "303",
+      "323",
+      "304"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 105,
+    "pergunta": "Quanto e 40 dividido por 20?",
+    "opcoes": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 106,
+    "pergunta": "Quanto e 11 x 14?",
+    "opcoes": [
+      "168",
+      "165",
+      "153",
+      "154"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 107,
+    "pergunta": "Quanto e 90 dividido por 9?",
+    "opcoes": [
+      "12",
+      "11",
+      "9",
+      "10"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 108,
+    "pergunta": "Quanto e 168 dividido por 12?",
+    "opcoes": [
+      "16",
+      "15",
+      "14",
+      "13"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 109,
+    "pergunta": "Qual e o dobro de 73?",
+    "opcoes": [
+      "151",
+      "146",
+      "144",
+      "148"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 110,
+    "pergunta": "Quanto e 165 + 110?",
+    "opcoes": [
+      "276",
+      "274",
+      "270",
+      "275"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 111,
+    "pergunta": "Quanto e 14 x 12?",
+    "opcoes": [
+      "182",
+      "167",
+      "168",
+      "180"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 112,
+    "pergunta": "Quanto e 14 x 10?",
+    "opcoes": [
+      "139",
+      "154",
+      "150",
+      "140"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 113,
+    "pergunta": "Quanto e 38 dividido por 2?",
+    "opcoes": [
+      "21",
+      "19",
+      "18",
+      "20"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 114,
+    "pergunta": "Qual e a metade de 26?",
+    "opcoes": [
+      "12",
+      "15",
+      "13",
+      "14"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 115,
+    "pergunta": "Quanto e 264 - 2?",
+    "opcoes": [
+      "262",
+      "261",
+      "267",
+      "263"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 116,
+    "pergunta": "Quanto e 100 dividido por 5?",
+    "opcoes": [
+      "21",
+      "22",
+      "20",
+      "19"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 117,
+    "pergunta": "Qual e a raiz quadrada de 169?",
+    "opcoes": [
+      "13",
+      "14",
+      "15",
+      "12"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 118,
+    "pergunta": "Quanto e 5 x 20?",
+    "opcoes": [
+      "100",
+      "99",
+      "120",
+      "105"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 119,
+    "pergunta": "Quanto e 32 dividido por 8?",
+    "opcoes": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 120,
+    "pergunta": "Qual e a raiz quadrada de 400?",
+    "opcoes": [
+      "20",
+      "22",
+      "19",
+      "21"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 121,
+    "pergunta": "Qual e a metade de 104?",
+    "opcoes": [
+      "52",
+      "51",
+      "54",
+      "53"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 122,
+    "pergunta": "Quanto e 108 + 126?",
+    "opcoes": [
+      "224",
+      "233",
+      "235",
+      "234"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 123,
+    "pergunta": "Qual e a metade de 48?",
+    "opcoes": [
+      "26",
+      "23",
+      "25",
+      "24"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 124,
+    "pergunta": "Qual e o dobro de 104?",
+    "opcoes": [
+      "210",
+      "213",
+      "206",
+      "208"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 125,
+    "pergunta": "Quanto e 12 x 9?",
+    "opcoes": [
+      "108",
+      "107",
+      "117",
+      "120"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 126,
+    "pergunta": "Quanto e 242 - 30?",
+    "opcoes": [
+      "211",
+      "217",
+      "213",
+      "212"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 127,
+    "pergunta": "Quanto e 84 dividido por 12?",
+    "opcoes": [
+      "9",
+      "6",
+      "8",
+      "7"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 128,
+    "pergunta": "Quanto e 10 x 10?",
+    "opcoes": [
+      "99",
+      "100",
+      "101",
+      "110"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 129,
+    "pergunta": "Quanto e 62 + 185?",
+    "opcoes": [
+      "248",
+      "250",
+      "246",
+      "247"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 130,
+    "pergunta": "Qual e a metade de 130?",
+    "opcoes": [
+      "67",
+      "66",
+      "64",
+      "65"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 131,
+    "pergunta": "Quanto e 76 + 57?",
+    "opcoes": [
+      "136",
+      "132",
+      "133",
+      "134"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 132,
+    "pergunta": "Quanto e 342 dividido por 19?",
+    "opcoes": [
+      "19",
+      "18",
+      "17",
+      "20"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 133,
+    "pergunta": "Quanto e 16 x 10?",
+    "opcoes": [
+      "160",
+      "176",
+      "170",
+      "159"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 134,
+    "pergunta": "Quanto e 185 + 50?",
+    "opcoes": [
+      "236",
+      "235",
+      "234",
+      "232"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 135,
+    "pergunta": "Quanto e 105 - 48?",
+    "opcoes": [
+      "59",
+      "58",
+      "57",
+      "56"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 136,
+    "pergunta": "Quanto e 50 + 76?",
+    "opcoes": [
+      "126",
+      "127",
+      "121",
+      "125"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 137,
+    "pergunta": "Quanto e 182 + 137?",
+    "opcoes": [
+      "320",
+      "319",
+      "314",
+      "318"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 138,
+    "pergunta": "Qual e o dobro de 42?",
+    "opcoes": [
+      "86",
+      "84",
+      "89",
+      "82"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 139,
+    "pergunta": "Quanto e 4 + 147?",
+    "opcoes": [
+      "148",
+      "150",
+      "152",
+      "151"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 140,
+    "pergunta": "Quanto e 7 x 3?",
+    "opcoes": [
+      "21",
+      "28",
+      "24",
+      "20"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 141,
+    "pergunta": "Quanto e 68 dividido por 17?",
+    "opcoes": [
+      "3",
+      "6",
+      "4",
+      "5"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 142,
+    "pergunta": "Quanto e 4 x 9?",
+    "opcoes": [
+      "36",
+      "45",
+      "35",
+      "40"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 143,
+    "pergunta": "Qual e o dobro de 81?",
+    "opcoes": [
+      "164",
+      "162",
+      "167",
+      "160"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 144,
+    "pergunta": "Quanto e 176 dividido por 16?",
+    "opcoes": [
+      "13",
+      "12",
+      "10",
+      "11"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 145,
+    "pergunta": "Qual e o dobro de 99?",
+    "opcoes": [
+      "196",
+      "203",
+      "198",
+      "200"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 146,
+    "pergunta": "Quanto e 4 x 7?",
+    "opcoes": [
+      "28",
+      "27",
+      "32",
+      "35"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 147,
+    "pergunta": "Quanto e 50 - 27?",
+    "opcoes": [
+      "22",
+      "25",
+      "24",
+      "23"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 148,
+    "pergunta": "Quanto e 123 - 46?",
+    "opcoes": [
+      "78",
+      "76",
+      "75",
+      "77"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 149,
+    "pergunta": "Quanto e 20 x 8?",
+    "opcoes": [
+      "168",
+      "159",
+      "180",
+      "160"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 150,
+    "pergunta": "Quanto e 6 x 4?",
+    "opcoes": [
+      "23",
+      "28",
+      "24",
+      "30"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 151,
+    "pergunta": "Quanto e 16 x 5?",
+    "opcoes": [
+      "96",
+      "85",
+      "79",
+      "80"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 152,
+    "pergunta": "Qual e a metade de 112?",
+    "opcoes": [
+      "57",
+      "55",
+      "56",
+      "58"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 153,
+    "pergunta": "Quanto e 12 dividido por 4?",
+    "opcoes": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 154,
+    "pergunta": "Qual e o dobro de 37?",
+    "opcoes": [
+      "72",
+      "79",
+      "74",
+      "76"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 155,
+    "pergunta": "Qual e o dobro de 7?",
+    "opcoes": [
+      "12",
+      "16",
+      "14",
+      "19"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 156,
+    "pergunta": "Quanto e 288 dividido por 18?",
+    "opcoes": [
+      "16",
+      "15",
+      "17",
+      "18"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 157,
+    "pergunta": "Qual e a metade de 218?",
+    "opcoes": [
+      "111",
+      "108",
+      "110",
+      "109"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 158,
+    "pergunta": "Quanto e 15 x 12?",
+    "opcoes": [
+      "192",
+      "195",
+      "180",
+      "179"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 159,
+    "pergunta": "Quanto e 15 x 17?",
+    "opcoes": [
+      "270",
+      "272",
+      "255",
+      "254"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 160,
+    "pergunta": "Quanto e 117 + 23?",
+    "opcoes": [
+      "140",
+      "137",
+      "141",
+      "139"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 161,
+    "pergunta": "Qual e a raiz quadrada de 196?",
+    "opcoes": [
+      "14",
+      "13",
+      "16",
+      "15"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 162,
+    "pergunta": "Quanto e 24 dividido por 3?",
+    "opcoes": [
+      "9",
+      "7",
+      "8",
+      "10"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 163,
+    "pergunta": "Qual e a metade de 122?",
+    "opcoes": [
+      "63",
+      "60",
+      "61",
+      "62"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 164,
+    "pergunta": "Qual e o dobro de 21?",
+    "opcoes": [
+      "44",
+      "42",
+      "40",
+      "47"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 165,
+    "pergunta": "Quanto e 8 + 162?",
+    "opcoes": [
+      "170",
+      "175",
+      "169",
+      "171"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 166,
+    "pergunta": "Quanto e 19 x 2?",
+    "opcoes": [
+      "40",
+      "37",
+      "57",
+      "38"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 167,
+    "pergunta": "Quanto e 30 dividido por 5?",
+    "opcoes": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 168,
+    "pergunta": "Quanto e 144 dividido por 9?",
+    "opcoes": [
+      "18",
+      "17",
+      "16",
+      "15"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 169,
+    "pergunta": "Qual e o dobro de 70?",
+    "opcoes": [
+      "145",
+      "140",
+      "142",
+      "138"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 170,
+    "pergunta": "Quanto e 18 x 10?",
+    "opcoes": [
+      "180",
+      "179",
+      "190",
+      "198"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 171,
+    "pergunta": "Qual e o dobro de 89?",
+    "opcoes": [
+      "183",
+      "176",
+      "180",
+      "178"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 172,
+    "pergunta": "Qual e o dobro de 66?",
+    "opcoes": [
+      "134",
+      "132",
+      "130",
+      "137"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 173,
+    "pergunta": "Quanto e 96 dividido por 12?",
+    "opcoes": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 174,
+    "pergunta": "Quanto e 269 - 27?",
+    "opcoes": [
+      "232",
+      "243",
+      "242",
+      "241"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 175,
+    "pergunta": "Qual e a metade de 216?",
+    "opcoes": [
+      "110",
+      "109",
+      "107",
+      "108"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 176,
+    "pergunta": "Quanto e 18 dividido por 3?",
+    "opcoes": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 177,
+    "pergunta": "Quanto e 135 + 117?",
+    "opcoes": [
+      "251",
+      "242",
+      "252",
+      "253"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 178,
+    "pergunta": "Quanto e 121 + 68?",
+    "opcoes": [
+      "190",
+      "186",
+      "188",
+      "189"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 179,
+    "pergunta": "Quanto e 204 dividido por 12?",
+    "opcoes": [
+      "16",
+      "17",
+      "19",
+      "18"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 180,
+    "pergunta": "Quanto e 211 - 44?",
+    "opcoes": [
+      "167",
+      "165",
+      "166",
+      "168"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 181,
+    "pergunta": "Quanto e 25 dividido por 5?",
+    "opcoes": [
+      "7",
+      "4",
+      "6",
+      "5"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 182,
+    "pergunta": "Quanto e 12 + 84?",
+    "opcoes": [
+      "86",
+      "96",
+      "97",
+      "95"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 183,
+    "pergunta": "Quanto e 54 dividido por 6?",
+    "opcoes": [
+      "8",
+      "10",
+      "11",
+      "9"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 184,
+    "pergunta": "Quanto e 94 - 6?",
+    "opcoes": [
+      "89",
+      "93",
+      "87",
+      "88"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 185,
+    "pergunta": "Quanto e 120 dividido por 20?",
+    "opcoes": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 186,
+    "pergunta": "Quanto e 20 dividido por 10?",
+    "opcoes": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 187,
+    "pergunta": "Quanto e 114 + 89?",
+    "opcoes": [
+      "208",
+      "204",
+      "203",
+      "202"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 188,
+    "pergunta": "Qual e a metade de 74?",
+    "opcoes": [
+      "39",
+      "38",
+      "36",
+      "37"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 189,
+    "pergunta": "Quanto e 85 dividido por 17?",
+    "opcoes": [
+      "6",
+      "7",
+      "5",
+      "4"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 190,
+    "pergunta": "Quanto e 169 + 102?",
+    "opcoes": [
+      "272",
+      "271",
+      "270",
+      "268"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 191,
+    "pergunta": "Quanto e 99 dividido por 11?",
+    "opcoes": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 192,
+    "pergunta": "Qual e a metade de 202?",
+    "opcoes": [
+      "101",
+      "102",
+      "103",
+      "100"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 193,
+    "pergunta": "Qual e a metade de 174?",
+    "opcoes": [
+      "87",
+      "89",
+      "86",
+      "88"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 194,
+    "pergunta": "Quanto e 149 + 94?",
+    "opcoes": [
+      "242",
+      "243",
+      "253",
+      "244"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 195,
+    "pergunta": "Quanto e 15 x 7?",
+    "opcoes": [
+      "104",
+      "105",
+      "120",
+      "112"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 196,
+    "pergunta": "Qual e o dobro de 69?",
+    "opcoes": [
+      "138",
+      "136",
+      "140",
+      "143"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 197,
+    "pergunta": "Qual e a raiz quadrada de 289?",
+    "opcoes": [
+      "18",
+      "16",
+      "17",
+      "19"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 198,
+    "pergunta": "Quanto e 24 dividido por 4?",
+    "opcoes": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 199,
+    "pergunta": "Quanto e 4 x 14?",
+    "opcoes": [
+      "55",
+      "56",
+      "70",
+      "60"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 200,
+    "pergunta": "Quanto e 130 dividido por 13?",
+    "opcoes": [
+      "11",
+      "9",
+      "12",
+      "10"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 201,
+    "pergunta": "Quanto e 173 + 60?",
+    "opcoes": [
+      "233",
+      "234",
+      "232",
+      "236"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 202,
+    "pergunta": "Qual e o dobro de 33?",
+    "opcoes": [
+      "66",
+      "64",
+      "71",
+      "68"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 203,
+    "pergunta": "Qual e a metade de 86?",
+    "opcoes": [
+      "42",
+      "45",
+      "44",
+      "43"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 204,
+    "pergunta": "Quanto e 10 + 78?",
+    "opcoes": [
+      "89",
+      "87",
+      "88",
+      "91"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 205,
+    "pergunta": "Qual e o dobro de 22?",
+    "opcoes": [
+      "46",
+      "49",
+      "42",
+      "44"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 206,
+    "pergunta": "Qual e a metade de 200?",
+    "opcoes": [
+      "99",
+      "101",
+      "102",
+      "100"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 207,
+    "pergunta": "Quanto e 85 dividido por 5?",
+    "opcoes": [
+      "19",
+      "18",
+      "16",
+      "17"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 208,
+    "pergunta": "Quanto e 163 - 29?",
+    "opcoes": [
+      "134",
+      "135",
+      "129",
+      "133"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 209,
+    "pergunta": "Qual e o dobro de 120?",
+    "opcoes": [
+      "240",
+      "238",
+      "242",
+      "245"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 210,
+    "pergunta": "Quanto e 8 x 5?",
+    "opcoes": [
+      "45",
+      "39",
+      "48",
+      "40"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 211,
+    "pergunta": "Qual e a metade de 172?",
+    "opcoes": [
+      "88",
+      "85",
+      "86",
+      "87"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 212,
+    "pergunta": "Quanto e 82 - 37?",
+    "opcoes": [
+      "46",
+      "45",
+      "44",
+      "40"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 213,
+    "pergunta": "Qual e o dobro de 32?",
+    "opcoes": [
+      "69",
+      "66",
+      "64",
+      "62"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 214,
+    "pergunta": "Qual e a raiz quadrada de 4?",
+    "opcoes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 215,
+    "pergunta": "Quanto e 170 + 7?",
+    "opcoes": [
+      "176",
+      "177",
+      "178",
+      "172"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 216,
+    "pergunta": "Qual e o dobro de 46?",
+    "opcoes": [
+      "97",
+      "90",
+      "92",
+      "94"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 217,
+    "pergunta": "Quanto e 33 + 190?",
+    "opcoes": [
+      "224",
+      "223",
+      "222",
+      "226"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 218,
+    "pergunta": "Quanto e 208 dividido por 16?",
+    "opcoes": [
+      "15",
+      "13",
+      "12",
+      "14"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 219,
+    "pergunta": "Qual e o dobro de 10?",
+    "opcoes": [
+      "20",
+      "22",
+      "18",
+      "25"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 220,
+    "pergunta": "Quanto e 123 + 103?",
+    "opcoes": [
+      "226",
+      "225",
+      "227",
+      "229"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 221,
+    "pergunta": "Qual e o antonimo de claro?",
+    "opcoes": [
+      "velho",
+      "baixo",
+      "escuro",
+      "triste"
+    ],
+    "correta": 3,
+    "categoria": "portugues"
+  },
+  {
+    "id": 222,
+    "pergunta": "Qual pontuacao encerra uma pergunta?",
+    "opcoes": [
+      ".",
+      "!",
+      "?",
+      ";"
+    ],
+    "correta": 3,
+    "categoria": "portugues"
+  },
+  {
+    "id": 223,
+    "pergunta": "Qual e o diminutivo de gato?",
+    "opcoes": [
+      "gatozona",
+      "gatoeira",
+      "gatoal",
+      "gatinho"
+    ],
+    "correta": 4,
+    "categoria": "portugues"
+  },
+  {
+    "id": 224,
+    "pergunta": "Qual dessas palavras e um substantivo?",
+    "opcoes": [
+      "claro",
+      "cidade",
+      "dormir",
+      "lentamente"
+    ],
+    "correta": 2,
+    "categoria": "portugues"
+  },
+  {
+    "id": 225,
+    "pergunta": "Qual dessas palavras e um verbo?",
+    "opcoes": [
+      "escuro",
+      "lentamente",
+      "beber",
+      "caderno"
+    ],
+    "correta": 3,
+    "categoria": "portugues"
+  },
+  {
+    "id": 226,
+    "pergunta": "Qual e o antonimo de rapido?",
+    "opcoes": [
+      "baixo",
+      "fraco",
+      "lento",
+      "frio"
+    ],
+    "correta": 3,
+    "categoria": "portugues"
+  },
+  {
+    "id": 227,
+    "pergunta": "Qual e o diminutivo de bola?",
+    "opcoes": [
+      "bolazona",
+      "bolinha",
+      "bolaal",
+      "bolaeira"
+    ],
+    "correta": 2,
+    "categoria": "portugues"
+  },
+  {
+    "id": 228,
+    "pergunta": "Qual dessas palavras esta escrita corretamente?",
+    "opcoes": [
+      "publico",
+      "publlico",
+      "publicco",
+      "publiko"
+    ],
+    "correta": 1,
+    "categoria": "portugues"
+  },
+  {
+    "id": 229,
+    "pergunta": "Qual e o antonimo de quente?",
+    "opcoes": [
+      "frio",
+      "vazio",
+      "fechado",
+      "triste"
+    ],
+    "correta": 1,
+    "categoria": "portugues"
+  },
+  {
+    "id": 230,
+    "pergunta": "Qual e o plural de papel?",
+    "opcoes": [
+      "papels",
+      "papeles",
+      "papeis",
+      "papelis"
+    ],
+    "correta": 3,
+    "categoria": "portugues"
+  },
+  {
+    "id": 231,
+    "pergunta": "Qual e o plural de animal?",
+    "opcoes": [
+      "animals",
+      "animalis",
+      "animais",
+      "animales"
+    ],
+    "correta": 3,
+    "categoria": "portugues"
+  },
+  {
+    "id": 232,
+    "pergunta": "Qual frase esta correta?",
+    "opcoes": [
+      "As criancas foi no parque",
+      "As criancas ir no parque",
+      "As criancas estudaram no parque",
+      "As criancas vai no parque"
+    ],
+    "correta": 3,
+    "categoria": "portugues"
+  },
+  {
+    "id": 233,
+    "pergunta": "Qual e o antonimo de alto?",
+    "opcoes": [
+      "pobre",
+      "baixo",
+      "vazio",
+      "triste"
+    ],
+    "correta": 2,
+    "categoria": "portugues"
+  },
+  {
+    "id": 234,
+    "pergunta": "Qual e o plural de jornal?",
+    "opcoes": [
+      "jornales",
+      "jornais",
+      "jornals",
+      "jornalis"
+    ],
+    "correta": 2,
+    "categoria": "portugues"
+  },
+  {
+    "id": 235,
+    "pergunta": "Qual e o sinonimo de bonito?",
+    "opcoes": [
+      "belo",
+      "simples",
+      "auxiliar",
+      "automovel"
+    ],
+    "correta": 1,
+    "categoria": "portugues"
+  },
+  {
+    "id": 236,
+    "pergunta": "Qual e o plural de aviao?",
+    "opcoes": [
+      "aviaois",
+      "avioes",
+      "aviaoes",
+      "aviaos"
+    ],
+    "correta": 2,
+    "categoria": "portugues"
+  },
+  {
+    "id": 237,
+    "pergunta": "Qual e o plural de pao?",
+    "opcoes": [
+      "paos",
+      "paes",
+      "paois",
+      "paoes"
+    ],
+    "correta": 2,
+    "categoria": "portugues"
+  },
+  {
+    "id": 238,
+    "pergunta": "Qual e o diminutivo de casa?",
+    "opcoes": [
+      "casazona",
+      "casaal",
+      "casaeira",
+      "casinha"
+    ],
+    "correta": 4,
+    "categoria": "portugues"
+  },
+  {
+    "id": 239,
+    "pergunta": "Qual e o diminutivo de porta?",
+    "opcoes": [
+      "portazona",
+      "portaal",
+      "portinha",
+      "portaeira"
+    ],
+    "correta": 3,
+    "categoria": "portugues"
+  },
+  {
+    "id": 240,
+    "pergunta": "Qual e o sinonimo de triste?",
+    "opcoes": [
+      "abatido",
+      "iniciar",
+      "contente",
+      "belo"
+    ],
+    "correta": 1,
+    "categoria": "portugues"
+  },
+  {
+    "id": 241,
+    "pergunta": "Qual e o antonimo de forte?",
+    "opcoes": [
+      "fechado",
+      "pobre",
+      "vazio",
+      "fraco"
+    ],
+    "correta": 4,
+    "categoria": "portugues"
+  },
+  {
+    "id": 242,
+    "pergunta": "Qual e o diminutivo de livro?",
+    "opcoes": [
+      "livroeira",
+      "livrozona",
+      "livroal",
+      "livrinho"
+    ],
+    "correta": 4,
+    "categoria": "portugues"
+  },
+  {
+    "id": 243,
+    "pergunta": "Qual e o sinonimo de falar?",
+    "opcoes": [
+      "contente",
+      "simples",
+      "auxiliar",
+      "dizer"
+    ],
+    "correta": 4,
+    "categoria": "portugues"
+  },
+  {
+    "id": 244,
+    "pergunta": "Qual e o sinonimo de comecar?",
+    "opcoes": [
+      "iniciar",
+      "lar",
+      "contente",
+      "simples"
+    ],
+    "correta": 1,
+    "categoria": "portugues"
+  },
+  {
+    "id": 245,
+    "pergunta": "Qual e o sinonimo de feliz?",
+    "opcoes": [
+      "contente",
+      "belo",
+      "dizer",
+      "automovel"
+    ],
+    "correta": 1,
+    "categoria": "portugues"
+  },
+  {
+    "id": 246,
+    "pergunta": "Qual e o sinonimo de facil?",
+    "opcoes": [
+      "simples",
+      "veloz",
+      "auxiliar",
+      "automovel"
+    ],
+    "correta": 1,
+    "categoria": "portugues"
+  },
+  {
+    "id": 247,
+    "pergunta": "Qual e o plural de porta?",
+    "opcoes": [
+      "portaes",
+      "portans",
+      "portais",
+      "portas"
+    ],
+    "correta": 4,
+    "categoria": "portugues"
+  },
+  {
+    "id": 248,
+    "pergunta": "Qual e o antonimo de rico?",
+    "opcoes": [
+      "lento",
+      "fraco",
+      "pobre",
+      "baixo"
+    ],
+    "correta": 3,
+    "categoria": "portugues"
+  },
+  {
+    "id": 249,
+    "pergunta": "Qual e o sinonimo de ajudar?",
+    "opcoes": [
+      "lar",
+      "auxiliar",
+      "iniciar",
+      "belo"
+    ],
+    "correta": 2,
+    "categoria": "portugues"
+  },
+  {
+    "id": 250,
+    "pergunta": "Qual e o plural de limao?",
+    "opcoes": [
+      "limoes",
+      "limaois",
+      "limaos",
+      "limaoes"
+    ],
+    "correta": 1,
+    "categoria": "portugues"
+  },
+  {
+    "id": 251,
+    "pergunta": "Qual e o antonimo de novo?",
+    "opcoes": [
+      "lento",
+      "velho",
+      "baixo",
+      "fraco"
+    ],
+    "correta": 2,
+    "categoria": "portugues"
+  },
+  {
+    "id": 252,
+    "pergunta": "Qual e o sinonimo de carro?",
+    "opcoes": [
+      "automovel",
+      "veloz",
+      "dizer",
+      "abatido"
+    ],
+    "correta": 1,
+    "categoria": "portugues"
+  },
+  {
+    "id": 253,
+    "pergunta": "Qual e o diminutivo de copo?",
+    "opcoes": [
+      "copinho",
+      "copozona",
+      "copoal",
+      "copoeira"
+    ],
+    "correta": 1,
+    "categoria": "portugues"
+  },
+  {
+    "id": 254,
+    "pergunta": "Qual e o sinonimo de casa?",
+    "opcoes": [
+      "simples",
+      "automovel",
+      "dizer",
+      "lar"
+    ],
+    "correta": 4,
+    "categoria": "portugues"
+  },
+  {
+    "id": 255,
+    "pergunta": "Qual e o plural de mala?",
+    "opcoes": [
+      "malans",
+      "malaes",
+      "malais",
+      "malas"
+    ],
+    "correta": 4,
+    "categoria": "portugues"
+  },
+  {
+    "id": 256,
+    "pergunta": "Qual e o sinonimo de rapido?",
+    "opcoes": [
+      "iniciar",
+      "veloz",
+      "lar",
+      "automovel"
+    ],
+    "correta": 2,
+    "categoria": "portugues"
+  },
+  {
+    "id": 257,
+    "pergunta": "Qual e o plural de professor?",
+    "opcoes": [
+      "professores",
+      "professors",
+      "professorns",
+      "professoris"
+    ],
+    "correta": 1,
+    "categoria": "portugues"
+  },
+  {
+    "id": 258,
+    "pergunta": "Qual e o antonimo de aberto?",
+    "opcoes": [
+      "vazio",
+      "fechado",
+      "triste",
+      "baixo"
+    ],
+    "correta": 2,
+    "categoria": "portugues"
+  },
+  {
+    "id": 259,
+    "pergunta": "Qual e o antonimo de cheio?",
+    "opcoes": [
+      "triste",
+      "vazio",
+      "baixo",
+      "frio"
+    ],
+    "correta": 2,
+    "categoria": "portugues"
+  },
+  {
+    "id": 260,
+    "pergunta": "Qual e o plural de livro?",
+    "opcoes": [
+      "livros",
+      "livrons",
+      "livrois",
+      "livroes"
+    ],
+    "correta": 1,
+    "categoria": "portugues"
+  },
+  {
+    "id": 261,
+    "pergunta": "Qual aparelho mede a temperatura?",
+    "opcoes": [
+      "Termometro",
+      "Microscopio",
+      "Barometro",
+      "Bussola"
+    ],
+    "correta": 1,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 262,
+    "pergunta": "Qual parte da planta fixa ela no solo?",
+    "opcoes": [
+      "Flor",
+      "Caule",
+      "Raiz",
+      "Folha"
+    ],
+    "correta": 3,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 263,
+    "pergunta": "Qual dos sentidos usamos para ouvir?",
+    "opcoes": [
+      "Tato",
+      "Olfato",
+      "Audicao",
+      "Visao"
+    ],
+    "correta": 3,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 264,
+    "pergunta": "Qual estrela ilumina a Terra?",
+    "opcoes": [
+      "Marte",
+      "Sol",
+      "Venus",
+      "Lua"
+    ],
+    "correta": 2,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 265,
+    "pergunta": "Qual camada da Terra e a mais externa?",
+    "opcoes": [
+      "Nucleo",
+      "Magma",
+      "Manto",
+      "Crosta"
+    ],
+    "correta": 4,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 266,
+    "pergunta": "A agua ferve em quantos graus Celsius ao nivel do mar?",
+    "opcoes": [
+      "90",
+      "100",
+      "110",
+      "95"
+    ],
+    "correta": 2,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 267,
+    "pergunta": "Qual e o satelite natural da Terra?",
+    "opcoes": [
+      "Marte",
+      "Sol",
+      "Lua",
+      "Mercurio"
+    ],
+    "correta": 3,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 268,
+    "pergunta": "Qual fenomeno causa a alternancia entre dia e noite?",
+    "opcoes": [
+      "Rotacao da Terra",
+      "Translacao da Terra",
+      "Lua cheia",
+      "Gravidade"
+    ],
+    "correta": 1,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 269,
+    "pergunta": "Qual vitamina geralmente associamos ao Sol?",
+    "opcoes": [
+      "Vitamina A",
+      "Vitamina D",
+      "Vitamina C",
+      "Vitamina B12"
+    ],
+    "correta": 2,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 270,
+    "pergunta": "Qual desses e um mamifero?",
+    "opcoes": [
+      "Tartaruga",
+      "Sapo",
+      "Galinha",
+      "Golfinho"
+    ],
+    "correta": 4,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 271,
+    "pergunta": "Qual e a fonte principal de energia da Terra?",
+    "opcoes": [
+      "Chuva",
+      "Lua",
+      "Sol",
+      "Vento"
+    ],
+    "correta": 3,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 272,
+    "pergunta": "Qual mudanca acontece quando a agua vira gelo?",
+    "opcoes": [
+      "Solidificacao",
+      "Fusao",
+      "Condensacao",
+      "Evaporacao"
+    ],
+    "correta": 1,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 273,
+    "pergunta": "Qual dessas fontes de energia e renovavel?",
+    "opcoes": [
+      "Gasolina",
+      "Petroleo",
+      "Vento",
+      "Carvao"
+    ],
+    "correta": 3,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 274,
+    "pergunta": "Qual mudanca acontece quando o gelo vira agua?",
+    "opcoes": [
+      "Sublimacao",
+      "Evaporacao",
+      "Solidificacao",
+      "Fusao"
+    ],
+    "correta": 4,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 275,
+    "pergunta": "Qual e a mistura de gases que respiramos?",
+    "opcoes": [
+      "Ar",
+      "Solo",
+      "Agua",
+      "Vapor"
+    ],
+    "correta": 1,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 276,
+    "pergunta": "Qual orgao bombeia sangue no corpo humano?",
+    "opcoes": [
+      "Coracao",
+      "Estomago",
+      "Figado",
+      "Pulmao"
+    ],
+    "correta": 1,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 277,
+    "pergunta": "Qual gas as plantas usam na fotossintese?",
+    "opcoes": [
+      "Oxigenio",
+      "Dioxido de carbono",
+      "Nitrogenio",
+      "Hidrogenio"
+    ],
+    "correta": 2,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 278,
+    "pergunta": "Qual desses materiais e atraido por ima?",
+    "opcoes": [
+      "Vidro",
+      "Plastico",
+      "Ferro",
+      "Madeira"
+    ],
+    "correta": 3,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 279,
+    "pergunta": "Qual e o estado fisico do gelo?",
+    "opcoes": [
+      "Plasma",
+      "Gasoso",
+      "Solido",
+      "Liquido"
+    ],
+    "correta": 3,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 280,
+    "pergunta": "Qual e o processo em que a planta produz seu alimento?",
+    "opcoes": [
+      "Fotossintese",
+      "Respiracao",
+      "Digestao",
+      "Evaporacao"
+    ],
+    "correta": 1,
+    "categoria": "ciencias"
+  },
+  {
+    "id": 281,
+    "pergunta": "Qual orgao e responsavel por bombear o sangue?",
+    "opcoes": [
+      "Coracao",
+      "Estomago",
+      "Cerebro",
+      "Pulmao"
+    ],
+    "correta": 1,
+    "categoria": "biologia"
+  },
+  {
+    "id": 282,
+    "pergunta": "Qual e o maior orgao do corpo humano?",
+    "opcoes": [
+      "Pele",
+      "Pulmao",
+      "Cerebro",
+      "Coracao"
+    ],
+    "correta": 1,
+    "categoria": "biologia"
+  },
+  {
+    "id": 283,
+    "pergunta": "Qual processo libera energia a partir dos alimentos nas celulas?",
+    "opcoes": [
+      "Circulacao",
+      "Fotossintese",
+      "Respiracao celular",
+      "Digestao"
+    ],
+    "correta": 3,
+    "categoria": "biologia"
+  },
+  {
+    "id": 284,
+    "pergunta": "Qual componente do sangue ajuda na defesa do organismo?",
+    "opcoes": [
+      "Globulos brancos",
+      "Plaquetas",
+      "Globulos vermelhos",
+      "Plasma seco"
+    ],
+    "correta": 1,
+    "categoria": "biologia"
+  },
+  {
+    "id": 285,
+    "pergunta": "Qual grupo inclui animais que mamam quando filhotes?",
+    "opcoes": [
+      "Aves",
+      "Repteis",
+      "Mamiferos",
+      "Anfibios"
+    ],
+    "correta": 3,
+    "categoria": "biologia"
+  },
+  {
+    "id": 286,
+    "pergunta": "Qual desses e um osso do corpo humano?",
+    "opcoes": [
+      "Femur",
+      "Rim",
+      "Figado",
+      "Pulmao"
+    ],
+    "correta": 1,
+    "categoria": "biologia"
+  },
+  {
+    "id": 287,
+    "pergunta": "Qual desses animais e um vertebrado?",
+    "opcoes": [
+      "Minhoca",
+      "Cachorro",
+      "Estrela do mar",
+      "Polvo"
+    ],
+    "correta": 2,
+    "categoria": "biologia"
+  },
+  {
+    "id": 288,
+    "pergunta": "Qual organo e principal na respiracao humana?",
+    "opcoes": [
+      "Pancreas",
+      "Figado",
+      "Pulmao",
+      "Rim"
+    ],
+    "correta": 3,
+    "categoria": "biologia"
+  },
+  {
+    "id": 289,
+    "pergunta": "Qual nutriente e mais conhecido por construir musculos?",
+    "opcoes": [
+      "Sal",
+      "Proteina",
+      "Agua",
+      "Acucar"
+    ],
+    "correta": 2,
+    "categoria": "biologia"
+  },
+  {
+    "id": 290,
+    "pergunta": "Qual parte da celula contem o material genetico?",
+    "opcoes": [
+      "Citoplasma",
+      "Parede celular",
+      "Membrana",
+      "Nucleo"
+    ],
+    "correta": 4,
+    "categoria": "biologia"
+  },
+  {
+    "id": 291,
+    "pergunta": "Qual sistema do corpo e responsavel pela respiracao?",
+    "opcoes": [
+      "Respiratorio",
+      "Excretor",
+      "Nervoso",
+      "Digestorio"
+    ],
+    "correta": 1,
+    "categoria": "biologia"
+  },
+  {
+    "id": 292,
+    "pergunta": "Qual orgao filtra o sangue?",
+    "opcoes": [
+      "Baco",
+      "Pulmao",
+      "Coracao",
+      "Rim"
+    ],
+    "correta": 4,
+    "categoria": "biologia"
+  },
+  {
+    "id": 293,
+    "pergunta": "Qual e o pigmento verde das plantas?",
+    "opcoes": [
+      "Hemoglobina",
+      "Clorofila",
+      "Melanina",
+      "Queratina"
+    ],
+    "correta": 2,
+    "categoria": "biologia"
+  },
+  {
+    "id": 294,
+    "pergunta": "Qual e a unidade basica da vida?",
+    "opcoes": [
+      "Celula",
+      "Tecido",
+      "Organela",
+      "Atomo"
+    ],
+    "correta": 1,
+    "categoria": "biologia"
+  },
+  {
+    "id": 295,
+    "pergunta": "Onde ocorre a digestao da maior parte dos alimentos?",
+    "opcoes": [
+      "Esofago",
+      "Nariz",
+      "Boca",
+      "Intestino delgado"
+    ],
+    "correta": 4,
+    "categoria": "biologia"
+  },
+  {
+    "id": 296,
+    "pergunta": "Quem foi o imperador frances conhecido por grandes conquistas militares?",
+    "opcoes": [
+      "Alexandre",
+      "Napoleao Bonaparte",
+      "Julio Cesar",
+      "Getulio Vargas"
+    ],
+    "correta": 2,
+    "categoria": "historia"
+  },
+  {
+    "id": 297,
+    "pergunta": "Em qual continente surgiu a humanidade?",
+    "opcoes": [
+      "America",
+      "Europa",
+      "Africa",
+      "Asia"
+    ],
+    "correta": 3,
+    "categoria": "historia"
+  },
+  {
+    "id": 298,
+    "pergunta": "Qual muro caiu em 1989 e simbolizou o fim da Guerra Fria?",
+    "opcoes": [
+      "Muro de Paris",
+      "Muro da China",
+      "Muro de Roma",
+      "Muro de Berlim"
+    ],
+    "correta": 4,
+    "categoria": "historia"
+  },
+  {
+    "id": 299,
+    "pergunta": "Qual civilizacao ficou famosa pelo Coliseu?",
+    "opcoes": [
+      "Asteca",
+      "Inca",
+      "Egipcia",
+      "Romana"
+    ],
+    "correta": 4,
+    "categoria": "historia"
+  },
+  {
+    "id": 300,
+    "pergunta": "Qual povo construiu as piramides do Egito?",
+    "opcoes": [
+      "Romanos",
+      "Maias",
+      "Egipcios",
+      "Gregos"
+    ],
+    "correta": 3,
+    "categoria": "historia"
+  },
+  {
+    "id": 301,
+    "pergunta": "Quem liderou a independencia da India de forma pacifica?",
+    "opcoes": [
+      "Nelson Mandela",
+      "Mahatma Gandhi",
+      "Napoleao",
+      "Abraham Lincoln"
+    ],
+    "correta": 2,
+    "categoria": "historia"
+  },
+  {
+    "id": 302,
+    "pergunta": "A Segunda Guerra Mundial terminou em que ano?",
+    "opcoes": [
+      "1950",
+      "1948",
+      "1942",
+      "1945"
+    ],
+    "correta": 4,
+    "categoria": "historia"
+  },
+  {
+    "id": 303,
+    "pergunta": "Quem foi Tiradentes?",
+    "opcoes": [
+      "Um pintor",
+      "Um lider da Inconfidencia Mineira",
+      "Um rei",
+      "Um navegador"
+    ],
+    "correta": 2,
+    "categoria": "historia"
+  },
+  {
+    "id": 304,
+    "pergunta": "Quem proclamou a independencia do Brasil?",
+    "opcoes": [
+      "Getulio Vargas",
+      "Dom Pedro I",
+      "Dom Pedro II",
+      "Tiradentes"
+    ],
+    "correta": 2,
+    "categoria": "historia"
+  },
+  {
+    "id": 305,
+    "pergunta": "Quem foi o primeiro presidente do Brasil?",
+    "opcoes": [
+      "Deodoro da Fonseca",
+      "Dom Pedro II",
+      "Getulio Vargas",
+      "Juscelino Kubitschek"
+    ],
+    "correta": 1,
+    "categoria": "historia"
+  },
+  {
+    "id": 306,
+    "pergunta": "Quem foi conhecido por assinar a Lei Aurea?",
+    "opcoes": [
+      "Getulio Vargas",
+      "Dom Pedro I",
+      "Princesa Isabel",
+      "Duque de Caxias"
+    ],
+    "correta": 3,
+    "categoria": "historia"
+  },
+  {
+    "id": 307,
+    "pergunta": "Qual periodo veio antes da Idade Moderna?",
+    "opcoes": [
+      "Idade Antiga",
+      "Pre-historia",
+      "Idade Media",
+      "Idade Contemporanea"
+    ],
+    "correta": 3,
+    "categoria": "historia"
+  },
+  {
+    "id": 308,
+    "pergunta": "Em qual pais aconteceu a Revolucao Francesa?",
+    "opcoes": [
+      "Alemanha",
+      "Italia",
+      "Franca",
+      "Espanha"
+    ],
+    "correta": 3,
+    "categoria": "historia"
+  },
+  {
+    "id": 309,
+    "pergunta": "Quem foi o navegador que chegou ao Brasil em 1500?",
+    "opcoes": [
+      "Pedro Alvares Cabral",
+      "Cristovao Colombo",
+      "Fernao de Magalhaes",
+      "Vasco da Gama"
+    ],
+    "correta": 1,
+    "categoria": "historia"
+  },
+  {
+    "id": 310,
+    "pergunta": "Em que ano o Brasil foi descoberto?",
+    "opcoes": [
+      "1498",
+      "1502",
+      "1500",
+      "1510"
+    ],
+    "correta": 3,
+    "categoria": "historia"
+  },
+  {
+    "id": 311,
+    "pergunta": "Qual e a capital do Brasil?",
+    "opcoes": [
+      "Rio de Janeiro",
+      "Sao Paulo",
+      "Brasilia",
+      "Salvador"
+    ],
+    "correta": 3,
+    "categoria": "geografia"
+  },
+  {
+    "id": 312,
+    "pergunta": "Qual e a capital da Argentina?",
+    "opcoes": [
+      "Santiago",
+      "Buenos Aires",
+      "Bogota",
+      "Lima"
+    ],
+    "correta": 2,
+    "categoria": "geografia"
+  },
+  {
+    "id": 313,
+    "pergunta": "Qual e o rio mais famoso do Egito?",
+    "opcoes": [
+      "Amazonas",
+      "Yangtze",
+      "Nilo",
+      "Mississipi"
+    ],
+    "correta": 3,
+    "categoria": "geografia"
+  },
+  {
+    "id": 314,
+    "pergunta": "Qual e a capital do Japao?",
+    "opcoes": [
+      "Pequim",
+      "Toquio",
+      "Seul",
+      "Bangkok"
+    ],
+    "correta": 2,
+    "categoria": "geografia"
+  },
+  {
+    "id": 315,
+    "pergunta": "Qual e o maior oceano do planeta?",
+    "opcoes": [
+      "Pacifico",
+      "Atlantico",
+      "Artico",
+      "Indico"
+    ],
+    "correta": 1,
+    "categoria": "geografia"
+  },
+  {
+    "id": 316,
+    "pergunta": "Qual floresta e a maior floresta tropical do mundo?",
+    "opcoes": [
+      "Amazonia",
+      "Taiga",
+      "Cerrado",
+      "Mata Atlantica"
+    ],
+    "correta": 1,
+    "categoria": "geografia"
+  },
+  {
+    "id": 317,
+    "pergunta": "Qual e a capital do Chile?",
+    "opcoes": [
+      "Montevideo",
+      "Lima",
+      "Santiago",
+      "Quito"
+    ],
+    "correta": 3,
+    "categoria": "geografia"
+  },
+  {
+    "id": 318,
+    "pergunta": "Qual linha imaginaria divide a Terra em hemisferio Norte e Sul?",
+    "opcoes": [
+      "Linha do Equador",
+      "Meridiano de Greenwich",
+      "Circulo Polar",
+      "Tropico de Cancer"
+    ],
+    "correta": 1,
+    "categoria": "geografia"
+  },
+  {
+    "id": 319,
+    "pergunta": "Qual pais e conhecido pela Torre Eiffel?",
+    "opcoes": [
+      "Espanha",
+      "Franca",
+      "Alemanha",
+      "Italia"
+    ],
+    "correta": 2,
+    "categoria": "geografia"
+  },
+  {
+    "id": 320,
+    "pergunta": "Qual estado brasileiro tem a sigla SP?",
+    "opcoes": [
+      "Sao Paulo",
+      "Sergipe",
+      "Santa Catarina",
+      "Para"
+    ],
+    "correta": 1,
+    "categoria": "geografia"
+  },
+  {
+    "id": 321,
+    "pergunta": "Qual e o menor continente?",
+    "opcoes": [
+      "America do Sul",
+      "Oceania",
+      "Africa",
+      "Europa"
+    ],
+    "correta": 2,
+    "categoria": "geografia"
+  },
+  {
+    "id": 322,
+    "pergunta": "Em qual continente fica o Brasil?",
+    "opcoes": [
+      "Africa",
+      "Europa",
+      "America do Sul",
+      "Asia"
+    ],
+    "correta": 3,
+    "categoria": "geografia"
+  },
+  {
+    "id": 323,
+    "pergunta": "Qual pais tem formato parecido com uma bota na Europa?",
+    "opcoes": [
+      "Italia",
+      "Alemanha",
+      "Portugal",
+      "Franca"
+    ],
+    "correta": 1,
+    "categoria": "geografia"
+  },
+  {
+    "id": 324,
+    "pergunta": "Qual e o deserto mais conhecido da Africa?",
+    "opcoes": [
+      "Atacama",
+      "Saara",
+      "Kalahari",
+      "Gobi"
+    ],
+    "correta": 2,
+    "categoria": "geografia"
+  },
+  {
+    "id": 325,
+    "pergunta": "Qual e o maior pais do mundo em area territorial?",
+    "opcoes": [
+      "China",
+      "Canada",
+      "Brasil",
+      "Russia"
+    ],
+    "correta": 4,
+    "categoria": "geografia"
+  },
+  {
+    "id": 326,
+    "pergunta": "Qual pais venceu a Copa do Mundo de 2002?",
+    "opcoes": [
+      "Argentina",
+      "Italia",
+      "Alemanha",
+      "Brasil"
+    ],
+    "correta": 4,
+    "categoria": "futebol"
+  },
+  {
+    "id": 327,
+    "pergunta": "Quanto tempo dura cada tempo no futebol profissional?",
+    "opcoes": [
+      "50 minutos",
+      "40 minutos",
+      "45 minutos",
+      "30 minutos"
+    ],
+    "correta": 3,
+    "categoria": "futebol"
+  },
+  {
+    "id": 328,
+    "pergunta": "Quem e conhecido como Rei do Futebol?",
+    "opcoes": [
+      "Neymar",
+      "Ronaldinho",
+      "Pele",
+      "Romario"
+    ],
+    "correta": 3,
+    "categoria": "futebol"
+  },
+  {
+    "id": 329,
+    "pergunta": "Qual jogador e famoso pela camisa 10 da Argentina e venceu a Copa de 2022?",
+    "opcoes": [
+      "Messi",
+      "Aguero",
+      "Di Maria",
+      "Suarez"
+    ],
+    "correta": 1,
+    "categoria": "futebol"
+  },
+  {
+    "id": 330,
+    "pergunta": "Quantos jogadores um time tem em campo no futebol?",
+    "opcoes": [
+      "9",
+      "11",
+      "12",
+      "10"
+    ],
+    "correta": 2,
+    "categoria": "futebol"
+  },
+  {
+    "id": 331,
+    "pergunta": "Qual jogador brasileiro ficou conhecido como Fenomeno?",
+    "opcoes": [
+      "Rivaldo",
+      "Romario",
+      "Kaka",
+      "Ronaldo"
+    ],
+    "correta": 4,
+    "categoria": "futebol"
+  },
+  {
+    "id": 332,
+    "pergunta": "Qual clube espanhol teve Messi por muitos anos?",
+    "opcoes": [
+      "Sevilla",
+      "Valencia",
+      "Barcelona",
+      "Real Madrid"
+    ],
+    "correta": 3,
+    "categoria": "futebol"
+  },
+  {
+    "id": 333,
+    "pergunta": "Quantos tempos tem uma partida de futebol normal?",
+    "opcoes": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "correta": 1,
+    "categoria": "futebol"
+  },
+  {
+    "id": 334,
+    "pergunta": "Qual competicao e a principal entre selecoes?",
+    "opcoes": [
+      "Champions League",
+      "Brasileirao",
+      "Libertadores",
+      "Copa do Mundo"
+    ],
+    "correta": 4,
+    "categoria": "futebol"
+  },
+  {
+    "id": 335,
+    "pergunta": "Em qual posicao joga quem defende o gol?",
+    "opcoes": [
+      "Goleiro",
+      "Atacante",
+      "Zagueiro",
+      "Meia"
+    ],
+    "correta": 1,
+    "categoria": "futebol"
+  },
+  {
+    "id": 336,
+    "pergunta": "Qual clube brasileiro e conhecido como Mengao?",
+    "opcoes": [
+      "Flamengo",
+      "Santos",
+      "Corinthians",
+      "Palmeiras"
+    ],
+    "correta": 1,
+    "categoria": "futebol"
+  },
+  {
+    "id": 337,
+    "pergunta": "Qual cor de cartao geralmente indica expulsao?",
+    "opcoes": [
+      "Amarelo",
+      "Vermelho",
+      "Verde",
+      "Azul"
+    ],
+    "correta": 2,
+    "categoria": "futebol"
+  },
+  {
+    "id": 338,
+    "pergunta": "Qual jogo da Rockstar se passa em Los Santos?",
+    "opcoes": [
+      "Red Dead Redemption",
+      "GTA V",
+      "Max Payne",
+      "Bully"
+    ],
+    "correta": 2,
+    "categoria": "jogos"
+  },
+  {
+    "id": 339,
+    "pergunta": "Em qual jogo aparece o personagem Kratos?",
+    "opcoes": [
+      "Halo",
+      "The Witcher",
+      "God of War",
+      "Resident Evil"
+    ],
+    "correta": 3,
+    "categoria": "jogos"
+  },
+  {
+    "id": 340,
+    "pergunta": "Qual encanador famoso salva a princesa Peach?",
+    "opcoes": [
+      "Luigi",
+      "Mario",
+      "Yoshi",
+      "Toad"
+    ],
+    "correta": 2,
+    "categoria": "jogos"
+  },
+  {
+    "id": 341,
+    "pergunta": "Qual jogo tem o mapa chamado Summoners Rift?",
+    "opcoes": [
+      "Fortnite",
+      "League of Legends",
+      "Valorant",
+      "Free Fire"
+    ],
+    "correta": 2,
+    "categoria": "jogos"
+  },
+  {
+    "id": 342,
+    "pergunta": "Qual jogo ficou famoso pelo battle royale com construcoes?",
+    "opcoes": [
+      "PUBG",
+      "Fortnite",
+      "CS",
+      "Valorant"
+    ],
+    "correta": 2,
+    "categoria": "jogos"
+  },
+  {
+    "id": 343,
+    "pergunta": "Qual jogo da Riot e de tiro tatico?",
+    "opcoes": [
+      "TFT",
+      "Wild Rift",
+      "Valorant",
+      "LoL"
+    ],
+    "correta": 3,
+    "categoria": "jogos"
+  },
+  {
+    "id": 344,
+    "pergunta": "Qual jogo famoso tem creepers?",
+    "opcoes": [
+      "Minecraft",
+      "Roblox",
+      "Among Us",
+      "Terraria"
+    ],
+    "correta": 1,
+    "categoria": "jogos"
+  },
+  {
+    "id": 345,
+    "pergunta": "Qual empresa criou o jogo Minecraft?",
+    "opcoes": [
+      "Mojang",
+      "Rockstar",
+      "Valve",
+      "Nintendo"
+    ],
+    "correta": 1,
+    "categoria": "jogos"
+  },
+  {
+    "id": 346,
+    "pergunta": "Qual empresa criou o PlayStation?",
+    "opcoes": [
+      "Nintendo",
+      "Microsoft",
+      "Sony",
+      "Sega"
+    ],
+    "correta": 3,
+    "categoria": "jogos"
+  },
+  {
+    "id": 347,
+    "pergunta": "Qual jogo usa blocos para construir e sobreviver?",
+    "opcoes": [
+      "Minecraft",
+      "Valorant",
+      "The Sims",
+      "FIFA"
+    ],
+    "correta": 1,
+    "categoria": "jogos"
+  },
+  {
+    "id": 348,
+    "pergunta": "Qual personagem e o mascote da Nintendo?",
+    "opcoes": [
+      "Sonic",
+      "Crash",
+      "Mario",
+      "Link"
+    ],
+    "correta": 3,
+    "categoria": "jogos"
+  },
+  {
+    "id": 349,
+    "pergunta": "Qual franquia tem o personagem Master Chief?",
+    "opcoes": [
+      "Halo",
+      "Final Fantasy",
+      "Crash Bandicoot",
+      "Zelda"
+    ],
+    "correta": 1,
+    "categoria": "jogos"
+  },
+  {
+    "id": 350,
+    "pergunta": "Quanto é 17 + 8?",
+    "opcoes": [
+      "24",
+      "23",
+      "25",
+      "26"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 351,
+    "pergunta": "Quanto é 17 + 14?",
+    "opcoes": [
+      "30",
+      "32",
+      "29",
+      "31"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 352,
+    "pergunta": "Quanto é 17 + 23?",
+    "opcoes": [
+      "39",
+      "41",
+      "40",
+      "38"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 353,
+    "pergunta": "Quanto é 20 + 8?",
+    "opcoes": [
+      "27",
+      "26",
+      "28",
+      "29"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 354,
+    "pergunta": "Quanto é 20 + 14?",
+    "opcoes": [
+      "33",
+      "32",
+      "35",
+      "34"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 355,
+    "pergunta": "Quanto é 20 + 23?",
+    "opcoes": [
+      "44",
+      "41",
+      "43",
+      "42"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 356,
+    "pergunta": "Quanto é 23 + 8?",
+    "opcoes": [
+      "31",
+      "30",
+      "29",
+      "32"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 357,
+    "pergunta": "Quanto é 23 + 14?",
+    "opcoes": [
+      "37",
+      "38",
+      "35",
+      "36"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 358,
+    "pergunta": "Quanto é 23 + 23?",
+    "opcoes": [
+      "47",
+      "44",
+      "46",
+      "45"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 359,
+    "pergunta": "Quanto é 26 + 8?",
+    "opcoes": [
+      "35",
+      "33",
+      "34",
+      "32"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 360,
+    "pergunta": "Quanto é 26 + 14?",
+    "opcoes": [
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 361,
+    "pergunta": "Quanto é 26 + 23?",
+    "opcoes": [
+      "47",
+      "50",
+      "49",
+      "48"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 362,
+    "pergunta": "Quanto é 29 + 8?",
+    "opcoes": [
+      "36",
+      "35",
+      "38",
+      "37"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 363,
+    "pergunta": "Quanto é 29 + 14?",
+    "opcoes": [
+      "43",
+      "42",
+      "44",
+      "41"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 364,
+    "pergunta": "Quanto é 29 + 23?",
+    "opcoes": [
+      "52",
+      "53",
+      "51",
+      "50"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 365,
+    "pergunta": "Quanto é 32 + 8?",
+    "opcoes": [
+      "41",
+      "38",
+      "39",
+      "40"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 366,
+    "pergunta": "Quanto é 32 + 14?",
+    "opcoes": [
+      "44",
+      "45",
+      "47",
+      "46"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 367,
+    "pergunta": "Quanto é 32 + 23?",
+    "opcoes": [
+      "56",
+      "53",
+      "55",
+      "54"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 368,
+    "pergunta": "Quanto é 35 + 8?",
+    "opcoes": [
+      "42",
+      "44",
+      "41",
+      "43"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 369,
+    "pergunta": "Quanto é 35 + 14?",
+    "opcoes": [
+      "50",
+      "49",
+      "48",
+      "47"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 370,
+    "pergunta": "Quanto é 35 + 23?",
+    "opcoes": [
+      "59",
+      "57",
+      "58",
+      "56"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 371,
+    "pergunta": "Quanto é 38 + 8?",
+    "opcoes": [
+      "45",
+      "46",
+      "47",
+      "44"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 372,
+    "pergunta": "Quanto é 38 + 14?",
+    "opcoes": [
+      "52",
+      "53",
+      "51",
+      "50"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 373,
+    "pergunta": "Quanto é 38 + 23?",
+    "opcoes": [
+      "62",
+      "61",
+      "60",
+      "59"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 374,
+    "pergunta": "Quanto é 41 + 8?",
+    "opcoes": [
+      "47",
+      "48",
+      "50",
+      "49"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 375,
+    "pergunta": "Quanto é 41 + 14?",
+    "opcoes": [
+      "56",
+      "55",
+      "53",
+      "54"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 376,
+    "pergunta": "Quanto é 41 + 23?",
+    "opcoes": [
+      "64",
+      "63",
+      "65",
+      "62"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 377,
+    "pergunta": "Quanto é 44 + 8?",
+    "opcoes": [
+      "51",
+      "53",
+      "50",
+      "52"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 378,
+    "pergunta": "Quanto é 44 + 14?",
+    "opcoes": [
+      "57",
+      "58",
+      "59",
+      "56"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 379,
+    "pergunta": "Quanto é 44 + 23?",
+    "opcoes": [
+      "65",
+      "67",
+      "66",
+      "68"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 380,
+    "pergunta": "Quanto é 47 + 8?",
+    "opcoes": [
+      "56",
+      "53",
+      "55",
+      "54"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 381,
+    "pergunta": "Quanto é 47 + 14?",
+    "opcoes": [
+      "61",
+      "60",
+      "59",
+      "62"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 382,
+    "pergunta": "Quanto é 47 + 23?",
+    "opcoes": [
+      "69",
+      "71",
+      "70",
+      "68"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 383,
+    "pergunta": "Quanto é 50 + 8?",
+    "opcoes": [
+      "56",
+      "59",
+      "58",
+      "57"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 384,
+    "pergunta": "Quanto é 50 + 14?",
+    "opcoes": [
+      "62",
+      "64",
+      "63",
+      "65"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 385,
+    "pergunta": "Quanto é 50 + 23?",
+    "opcoes": [
+      "73",
+      "74",
+      "71",
+      "72"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 386,
+    "pergunta": "Quanto é 53 + 8?",
+    "opcoes": [
+      "61",
+      "59",
+      "60",
+      "62"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 387,
+    "pergunta": "Quanto é 53 + 14?",
+    "opcoes": [
+      "67",
+      "65",
+      "66",
+      "68"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 388,
+    "pergunta": "Quanto é 53 + 23?",
+    "opcoes": [
+      "77",
+      "76",
+      "75",
+      "74"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 389,
+    "pergunta": "Quanto é 56 + 8?",
+    "opcoes": [
+      "62",
+      "64",
+      "63",
+      "65"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 390,
+    "pergunta": "Quanto é 56 + 14?",
+    "opcoes": [
+      "70",
+      "68",
+      "71",
+      "69"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 391,
+    "pergunta": "Quanto é 56 + 23?",
+    "opcoes": [
+      "78",
+      "77",
+      "80",
+      "79"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 392,
+    "pergunta": "Quanto é 59 + 8?",
+    "opcoes": [
+      "68",
+      "65",
+      "66",
+      "67"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 393,
+    "pergunta": "Quanto é 59 + 14?",
+    "opcoes": [
+      "72",
+      "73",
+      "71",
+      "74"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 394,
+    "pergunta": "Quanto é 59 + 23?",
+    "opcoes": [
+      "82",
+      "81",
+      "80",
+      "83"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 395,
+    "pergunta": "Quanto é 62 + 8?",
+    "opcoes": [
+      "70",
+      "69",
+      "71",
+      "68"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 396,
+    "pergunta": "Quanto é 62 + 14?",
+    "opcoes": [
+      "76",
+      "77",
+      "74",
+      "75"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 397,
+    "pergunta": "Quanto é 62 + 23?",
+    "opcoes": [
+      "85",
+      "84",
+      "86",
+      "83"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 398,
+    "pergunta": "Quanto é 65 + 8?",
+    "opcoes": [
+      "73",
+      "72",
+      "74",
+      "71"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 399,
+    "pergunta": "Quanto é 65 + 14?",
+    "opcoes": [
+      "79",
+      "77",
+      "78",
+      "80"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 400,
+    "pergunta": "Quanto é 65 + 23?",
+    "opcoes": [
+      "87",
+      "86",
+      "89",
+      "88"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 401,
+    "pergunta": "Quanto é 68 + 8?",
+    "opcoes": [
+      "74",
+      "75",
+      "76",
+      "77"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 402,
+    "pergunta": "Quanto é 68 + 14?",
+    "opcoes": [
+      "81",
+      "80",
+      "82",
+      "83"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 403,
+    "pergunta": "Quanto é 68 + 23?",
+    "opcoes": [
+      "91",
+      "92",
+      "89",
+      "90"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 404,
+    "pergunta": "Quanto é 71 + 8?",
+    "opcoes": [
+      "80",
+      "77",
+      "79",
+      "78"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 405,
+    "pergunta": "Quanto é 71 + 14?",
+    "opcoes": [
+      "86",
+      "85",
+      "84",
+      "83"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 406,
+    "pergunta": "Quanto é 71 + 23?",
+    "opcoes": [
+      "95",
+      "93",
+      "94",
+      "92"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 407,
+    "pergunta": "Quanto é 74 + 8?",
+    "opcoes": [
+      "83",
+      "81",
+      "80",
+      "82"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 408,
+    "pergunta": "Quanto é 74 + 14?",
+    "opcoes": [
+      "86",
+      "88",
+      "87",
+      "89"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 409,
+    "pergunta": "Quanto é 74 + 23?",
+    "opcoes": [
+      "96",
+      "95",
+      "97",
+      "98"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 410,
+    "pergunta": "Quanto é 77 + 8?",
+    "opcoes": [
+      "83",
+      "85",
+      "86",
+      "84"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 411,
+    "pergunta": "Quanto é 77 + 14?",
+    "opcoes": [
+      "90",
+      "91",
+      "92",
+      "89"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 412,
+    "pergunta": "Quanto é 77 + 23?",
+    "opcoes": [
+      "99",
+      "98",
+      "100",
+      "101"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 413,
+    "pergunta": "Quanto é 80 + 8?",
+    "opcoes": [
+      "89",
+      "87",
+      "86",
+      "88"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 414,
+    "pergunta": "Quanto é 80 + 14?",
+    "opcoes": [
+      "93",
+      "92",
+      "95",
+      "94"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 415,
+    "pergunta": "Quanto é 80 + 23?",
+    "opcoes": [
+      "104",
+      "103",
+      "101",
+      "102"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 416,
+    "pergunta": "Quanto é 83 + 8?",
+    "opcoes": [
+      "89",
+      "91",
+      "92",
+      "90"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 417,
+    "pergunta": "Quanto é 83 + 14?",
+    "opcoes": [
+      "98",
+      "97",
+      "96",
+      "95"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 418,
+    "pergunta": "Quanto é 83 + 23?",
+    "opcoes": [
+      "104",
+      "105",
+      "107",
+      "106"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 419,
+    "pergunta": "Quanto é 86 + 8?",
+    "opcoes": [
+      "94",
+      "92",
+      "95",
+      "93"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 420,
+    "pergunta": "Quanto é 86 + 14?",
+    "opcoes": [
+      "101",
+      "98",
+      "99",
+      "100"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 421,
+    "pergunta": "Quanto é 86 + 23?",
+    "opcoes": [
+      "110",
+      "108",
+      "109",
+      "107"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 422,
+    "pergunta": "Quanto é 89 + 8?",
+    "opcoes": [
+      "98",
+      "95",
+      "96",
+      "97"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 423,
+    "pergunta": "Quanto é 89 + 14?",
+    "opcoes": [
+      "103",
+      "102",
+      "104",
+      "101"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 424,
+    "pergunta": "Quanto é 89 + 23?",
+    "opcoes": [
+      "112",
+      "113",
+      "110",
+      "111"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 425,
+    "pergunta": "Quanto é 92 + 8?",
+    "opcoes": [
+      "100",
+      "98",
+      "99",
+      "101"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 426,
+    "pergunta": "Quanto é 92 + 14?",
+    "opcoes": [
+      "104",
+      "106",
+      "105",
+      "107"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 427,
+    "pergunta": "Quanto é 92 + 23?",
+    "opcoes": [
+      "113",
+      "116",
+      "115",
+      "114"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 428,
+    "pergunta": "Quanto é 95 + 8?",
+    "opcoes": [
+      "104",
+      "102",
+      "103",
+      "101"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 429,
+    "pergunta": "Quanto é 95 + 14?",
+    "opcoes": [
+      "109",
+      "110",
+      "107",
+      "108"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 430,
+    "pergunta": "Quanto é 95 + 23?",
+    "opcoes": [
+      "119",
+      "118",
+      "116",
+      "117"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 431,
+    "pergunta": "Quanto é 98 + 8?",
+    "opcoes": [
+      "107",
+      "106",
+      "104",
+      "105"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 432,
+    "pergunta": "Quanto é 98 + 14?",
+    "opcoes": [
+      "113",
+      "112",
+      "110",
+      "111"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 433,
+    "pergunta": "Quanto é 98 + 23?",
+    "opcoes": [
+      "120",
+      "122",
+      "121",
+      "119"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 434,
+    "pergunta": "Quanto é 101 + 8?",
+    "opcoes": [
+      "108",
+      "110",
+      "109",
+      "107"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 435,
+    "pergunta": "Quanto é 101 + 14?",
+    "opcoes": [
+      "115",
+      "114",
+      "113",
+      "116"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 436,
+    "pergunta": "Quanto é 101 + 23?",
+    "opcoes": [
+      "125",
+      "123",
+      "124",
+      "122"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 437,
+    "pergunta": "Quanto é 104 + 8?",
+    "opcoes": [
+      "110",
+      "111",
+      "113",
+      "112"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 438,
+    "pergunta": "Quanto é 104 + 14?",
+    "opcoes": [
+      "119",
+      "117",
+      "118",
+      "116"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 439,
+    "pergunta": "Quanto é 104 + 23?",
+    "opcoes": [
+      "126",
+      "125",
+      "128",
+      "127"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 440,
+    "pergunta": "Quanto é 107 + 8?",
+    "opcoes": [
+      "115",
+      "114",
+      "116",
+      "113"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 441,
+    "pergunta": "Quanto é 107 + 14?",
+    "opcoes": [
+      "120",
+      "119",
+      "122",
+      "121"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 442,
+    "pergunta": "Quanto é 107 + 23?",
+    "opcoes": [
+      "129",
+      "128",
+      "130",
+      "131"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 443,
+    "pergunta": "Quanto é 110 + 8?",
+    "opcoes": [
+      "119",
+      "117",
+      "116",
+      "118"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 444,
+    "pergunta": "Quanto é 110 + 14?",
+    "opcoes": [
+      "123",
+      "124",
+      "125",
+      "122"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 445,
+    "pergunta": "Quanto é 110 + 23?",
+    "opcoes": [
+      "132",
+      "134",
+      "133",
+      "131"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 446,
+    "pergunta": "Quanto é 113 + 8?",
+    "opcoes": [
+      "120",
+      "119",
+      "122",
+      "121"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 447,
+    "pergunta": "Quanto é 113 + 14?",
+    "opcoes": [
+      "127",
+      "126",
+      "128",
+      "125"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 448,
+    "pergunta": "Quanto é 113 + 23?",
+    "opcoes": [
+      "135",
+      "137",
+      "136",
+      "134"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 449,
+    "pergunta": "Quanto é 116 + 8?",
+    "opcoes": [
+      "123",
+      "122",
+      "124",
+      "125"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 450,
+    "pergunta": "Quanto é 116 + 14?",
+    "opcoes": [
+      "130",
+      "129",
+      "128",
+      "131"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 451,
+    "pergunta": "Quanto é 116 + 23?",
+    "opcoes": [
+      "138",
+      "139",
+      "137",
+      "140"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 452,
+    "pergunta": "Quanto é 119 + 8?",
+    "opcoes": [
+      "128",
+      "125",
+      "126",
+      "127"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 453,
+    "pergunta": "Quanto é 119 + 14?",
+    "opcoes": [
+      "131",
+      "132",
+      "134",
+      "133"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 454,
+    "pergunta": "Quanto é 119 + 23?",
+    "opcoes": [
+      "140",
+      "142",
+      "141",
+      "143"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 455,
+    "pergunta": "Quanto é 122 + 8?",
+    "opcoes": [
+      "128",
+      "130",
+      "129",
+      "131"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 456,
+    "pergunta": "Quanto é 122 + 14?",
+    "opcoes": [
+      "137",
+      "135",
+      "134",
+      "136"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 457,
+    "pergunta": "Quanto é 122 + 23?",
+    "opcoes": [
+      "145",
+      "144",
+      "146",
+      "143"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 458,
+    "pergunta": "Quanto é 125 + 8?",
+    "opcoes": [
+      "134",
+      "132",
+      "133",
+      "131"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 459,
+    "pergunta": "Quanto é 125 + 14?",
+    "opcoes": [
+      "140",
+      "139",
+      "137",
+      "138"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 460,
+    "pergunta": "Quanto é 125 + 23?",
+    "opcoes": [
+      "148",
+      "146",
+      "149",
+      "147"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 461,
+    "pergunta": "Quanto é 128 + 8?",
+    "opcoes": [
+      "134",
+      "137",
+      "136",
+      "135"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 462,
+    "pergunta": "Quanto é 128 + 14?",
+    "opcoes": [
+      "141",
+      "143",
+      "142",
+      "140"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 463,
+    "pergunta": "Quanto é 128 + 23?",
+    "opcoes": [
+      "151",
+      "150",
+      "152",
+      "149"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 464,
+    "pergunta": "Quanto é 131 + 8?",
+    "opcoes": [
+      "137",
+      "139",
+      "138",
+      "140"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 465,
+    "pergunta": "Quanto é 131 + 14?",
+    "opcoes": [
+      "144",
+      "145",
+      "146",
+      "143"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 466,
+    "pergunta": "Quanto é 131 + 23?",
+    "opcoes": [
+      "153",
+      "152",
+      "154",
+      "155"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 467,
+    "pergunta": "Quanto é 134 + 8?",
+    "opcoes": [
+      "143",
+      "142",
+      "141",
+      "140"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 468,
+    "pergunta": "Quanto é 134 + 14?",
+    "opcoes": [
+      "146",
+      "147",
+      "148",
+      "149"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 469,
+    "pergunta": "Quanto é 134 + 23?",
+    "opcoes": [
+      "158",
+      "156",
+      "155",
+      "157"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 470,
+    "pergunta": "Quanto é 137 + 8?",
+    "opcoes": [
+      "143",
+      "144",
+      "145",
+      "146"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 471,
+    "pergunta": "Quanto é 137 + 14?",
+    "opcoes": [
+      "151",
+      "152",
+      "150",
+      "149"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 472,
+    "pergunta": "Quanto é 137 + 23?",
+    "opcoes": [
+      "161",
+      "159",
+      "160",
+      "158"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 473,
+    "pergunta": "Quanto é 140 + 8?",
+    "opcoes": [
+      "146",
+      "148",
+      "147",
+      "149"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 474,
+    "pergunta": "Quanto é 140 + 14?",
+    "opcoes": [
+      "154",
+      "152",
+      "155",
+      "153"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 475,
+    "pergunta": "Quanto é 140 + 23?",
+    "opcoes": [
+      "161",
+      "163",
+      "162",
+      "164"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 476,
+    "pergunta": "Quanto é 143 + 8?",
+    "opcoes": [
+      "152",
+      "150",
+      "151",
+      "149"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 477,
+    "pergunta": "Quanto é 143 + 14?",
+    "opcoes": [
+      "155",
+      "156",
+      "158",
+      "157"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 478,
+    "pergunta": "Quanto é 143 + 23?",
+    "opcoes": [
+      "165",
+      "166",
+      "164",
+      "167"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 479,
+    "pergunta": "Quanto é 146 + 8?",
+    "opcoes": [
+      "152",
+      "153",
+      "154",
+      "155"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 480,
+    "pergunta": "Quanto é 146 + 14?",
+    "opcoes": [
+      "158",
+      "159",
+      "161",
+      "160"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 481,
+    "pergunta": "Quanto é 146 + 23?",
+    "opcoes": [
+      "167",
+      "170",
+      "169",
+      "168"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 482,
+    "pergunta": "Quanto é 149 + 8?",
+    "opcoes": [
+      "157",
+      "156",
+      "155",
+      "158"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 483,
+    "pergunta": "Quanto é 149 + 14?",
+    "opcoes": [
+      "161",
+      "164",
+      "162",
+      "163"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 484,
+    "pergunta": "Quanto é 149 + 23?",
+    "opcoes": [
+      "172",
+      "173",
+      "171",
+      "170"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 485,
+    "pergunta": "Quanto é 152 + 8?",
+    "opcoes": [
+      "158",
+      "161",
+      "160",
+      "159"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 486,
+    "pergunta": "Quanto é 152 + 14?",
+    "opcoes": [
+      "164",
+      "166",
+      "167",
+      "165"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 487,
+    "pergunta": "Quanto é 152 + 23?",
+    "opcoes": [
+      "176",
+      "173",
+      "175",
+      "174"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  },
+  {
+    "id": 488,
+    "pergunta": "Quanto é 155 + 8?",
+    "opcoes": [
+      "161",
+      "164",
+      "162",
+      "163"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 489,
+    "pergunta": "Quanto é 155 + 14?",
+    "opcoes": [
+      "169",
+      "170",
+      "168",
+      "167"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 490,
+    "pergunta": "Quanto é 155 + 23?",
+    "opcoes": [
+      "179",
+      "176",
+      "177",
+      "178"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 491,
+    "pergunta": "Quanto é 158 + 8?",
+    "opcoes": [
+      "167",
+      "166",
+      "165",
+      "164"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 492,
+    "pergunta": "Quanto é 158 + 14?",
+    "opcoes": [
+      "170",
+      "172",
+      "171",
+      "173"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 493,
+    "pergunta": "Quanto é 158 + 23?",
+    "opcoes": [
+      "180",
+      "182",
+      "179",
+      "181"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 494,
+    "pergunta": "Quanto é 161 + 8?",
+    "opcoes": [
+      "169",
+      "168",
+      "167",
+      "170"
+    ],
+    "correta": 1,
+    "categoria": "matematica"
+  },
+  {
+    "id": 495,
+    "pergunta": "Quanto é 161 + 14?",
+    "opcoes": [
+      "174",
+      "175",
+      "176",
+      "173"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 496,
+    "pergunta": "Quanto é 161 + 23?",
+    "opcoes": [
+      "185",
+      "184",
+      "182",
+      "183"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 497,
+    "pergunta": "Quanto é 164 + 8?",
+    "opcoes": [
+      "173",
+      "172",
+      "171",
+      "170"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 498,
+    "pergunta": "Quanto é 164 + 14?",
+    "opcoes": [
+      "179",
+      "178",
+      "177",
+      "176"
+    ],
+    "correta": 2,
+    "categoria": "matematica"
+  },
+  {
+    "id": 499,
+    "pergunta": "Quanto é 164 + 23?",
+    "opcoes": [
+      "188",
+      "186",
+      "185",
+      "187"
+    ],
+    "correta": 4,
+    "categoria": "matematica"
+  },
+  {
+    "id": 500,
+    "pergunta": "Quanto é 90 - 37?",
+    "opcoes": [
+      "52",
+      "54",
+      "53",
+      "51"
+    ],
+    "correta": 3,
+    "categoria": "matematica"
+  }
+]

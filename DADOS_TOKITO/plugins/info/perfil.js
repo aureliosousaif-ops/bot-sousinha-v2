@@ -1,0 +1,466 @@
+/*
+ * ============================================================
+ *                     TOKITO BOT V10
+ * ============================================================
+ *
+ * Projeto disponibilizado gratuitamente para a comunidade.
+ *
+ * Você pode modificar, personalizar e utilizar este bot
+ * conforme sua preferência, inclusive mantendo o nome Tokito.
+ *
+ * REGRAS:
+ * • É proibida a venda ou revenda deste código-fonte.
+ * • Não comercialize versões modificadas deste projeto.
+ * • Não reivindique a autoria original do projeto.
+ * • Respeite os créditos e o trabalho dos desenvolvedores.
+ * • Utilize o projeto com respeito e responsabilidade.
+ *
+ * ATENÇÃO:
+ * A venda, revenda ou comercialização não autorizada deste
+ * projeto poderá resultar em medidas legais para proteção
+ * dos direitos dos autores, incluindo processo judicial,
+ * conforme a legislação aplicável.
+ *
+ * Author: Dylan Modz
+ * API oficial: https://tokito-apis.com.br
+ *
+ * Modifique como quiser. Apenas respeite as regras.
+ * ============================================================
+ */
+
+const dylan = require('../../database/lib/comandos')
+const r = require('../../sistemas/rpg/index')
+const registro = require('../../sistemas/registro')
+
+dylan.setCommand({
+nome: "perfil",
+comandos: ["perfil", "profile"],
+categoria: "info",
+
+info: {
+descricao: "Executa o comando perfil.",
+uso: "perfil",
+categoria: "info"
+},
+
+async executar(ctx) {
+with (ctx) {
+{
+try {
+await reagir(from, '🍁')
+
+const alvo = normalizar(
+mrc_ou_numero ||
+sender_ou_n ||
+sender
+)
+
+const numero = String(alvo)
+.split('@')[0]
+.split(':')[0]
+
+const membro = isGroup
+? groupMembers.find(m =>
+nJid(
+m?.id ||
+m?.jid ||
+m?.participant ||
+m
+) === alvo
+)
+: null
+
+const registroPerfil = isGroup
+? registro.perfil(from, alvo, ctx.runtimeSub?.isSubBot ? String(ctx.runtimeSub.id || 'sub') : '', groupMembers)
+: null
+
+const nickOriginal =
+alvo === sender
+? pushname
+: membro?.notify ||
+membro?.name ||
+membro?.verifiedName ||
+`Usuário ${numero.slice(-4)}`
+
+const nick = registroPerfil?.nome || nickOriginal
+
+const dono =
+numerodono.includes(alvo)
+
+const vipAlvo =
+dono ||
+vip.some(v =>
+nJid(
+v?.id ||
+v
+) === alvo
+)
+
+const cargo =
+dono
+? 'ᴍᴇsᴛʀᴇ'
+: membro?.admin === 'superadmin'
+? 'ᴅᴏɴᴏ ᴅᴏ ɢʀᴜᴘᴏ'
+: membro?.admin === 'admin'
+? 'ᴀᴅᴍɪɴɪsᴛʀᴀᴅᴏʀ'
+: vipAlvo
+? 'ᴠɪᴘ'
+: 'ᴍᴇᴍʙʀᴏ'
+
+let jidBiz = alvo
+
+if (
+alvo.endsWith('@lid') &&
+typeof tokito.signalRepository?.lidMapping?.getPNForLID === 'function'
+) {
+jidBiz = await tokito.signalRepository
+.lidMapping
+.getPNForLID(alvo)
+.catch(() => alvo) || alvo
+}
+
+const foto = await tokito
+.profilePictureUrl(
+alvo,
+'image'
+)
+.catch(() =>
+'https://raw.githubusercontent.com/dylanModz/uploadsgg/main/midias/imagens/9841648c3df.jpg'
+)
+
+const status = await tokito
+.fetchStatus(alvo)
+.catch(() => null)
+
+const pegarBio = valor => {
+if (!valor)
+return ''
+
+if (typeof valor === 'string')
+return valor.trim()
+
+if (Array.isArray(valor)) {
+for (const item of valor) {
+const encontrada = pegarBio(item)
+
+if (encontrada)
+return encontrada
+}
+
+return ''
+}
+
+if (typeof valor === 'object') {
+const candidatos = [
+valor.status,
+valor.text,
+valor.about,
+valor.bio,
+valor.description
+]
+
+for (const item of candidatos) {
+const encontrada = pegarBio(item)
+
+if (encontrada)
+return encontrada
+}
+}
+
+return ''
+}
+
+const bio =
+pegarBio(status) ||
+'Privado ou sem recado'
+
+const biz = await tokito
+.getBusinessProfile(jidBiz)
+.catch(() => null)
+
+const fundoPerfil =
+biz?.coverPhotoUrl ||
+biz?.cover_photo?.url ||
+foto
+
+const idMensagem =
+String(
+info.key?.id ||
+''
+)
+
+const celular =
+idMensagem.length > 21
+? 'Android 🤣'
+: idMensagem.startsWith('3A')
+? 'iOS 😂😂😅'
+: 'WhatsApp Web 😂☝🏼'
+
+const nivelGado =
+Math.floor(
+Math.random() * 101
+)
+
+const nivelPuta =
+Math.floor(
+Math.random() * 101
+)
+
+const gostosura =
+Math.floor(
+Math.random() * 101
+)
+
+const programa =
+Math.floor(
+Math.random() * 10000
+)
+
+const dadosGrupo =
+isGroup && Array.isArray(dataGp)
+? dataGp[0]
+: null
+
+const registroRpg =
+dadosGrupo?.rpg?.usuarios?.[alvo] ||
+null
+
+const registroCoins =
+dadosGrupo?.economia?.usuarios?.[alvo] ||
+null
+
+const aventuraRpg =
+registroRpg?.aventura ||
+null
+
+const petPerfil =
+registroRpg?.pet?.tipo
+? registroRpg.pet.apelido ||
+r.PETS[registroRpg.pet.tipo]?.nome ||
+registroRpg.pet.tipo
+: null
+
+const pokemonPerfil =
+registroRpg?.pokemon?.tipo
+? registroRpg.pokemon.apelido ||
+r.POKEMON[registroRpg.pokemon.tipo]?.nome ||
+registroRpg.pokemon.tipo
+: null
+
+const classePerfil =
+aventuraRpg?.classe
+? r.CLASSES_RPG[aventuraRpg.classe]?.nome ||
+aventuraRpg.classe
+: null
+
+const armaPerfil =
+aventuraRpg?.armaEquipada
+? r.ARMAS_RPG[aventuraRpg.armaEquipada]?.nome ||
+aventuraRpg.armaEquipada
+: null
+
+const guildaPerfil =
+aventuraRpg?.guilda
+? dadosGrupo?.rpg?.guildas?.[aventuraRpg.guilda]?.nome ||
+aventuraRpg.guilda
+: null
+
+const saldoPerfil =
+registroCoins
+? `${Number(registroCoins.coins || 0).toLocaleString('pt-BR')} N-Coins`
+: '0 N-Coins'
+
+const cidadePerfil =
+registroCoins?.cidade?.nome ||
+null
+
+const nivelPerfil =
+registroRpg
+? `Nível ${Number(registroRpg.level || 1)} • ${registroRpg.patente || 'Bronze I'}`
+: null
+
+const torrePerfil =
+Number(aventuraRpg?.andarTorre || 0) > 0
+? `Andar ${Number(aventuraRpg.andarTorre || 0)}`
+: null
+
+const cardPerfil =
+`${API_URL}/canvas/perfil` +
+`?fundo=${encodeURIComponent(fundoPerfil)}` +
+`&text=${encodeURIComponent(nick)}` +
+`&subtext=${encodeURIComponent('Tokito Apis')}` +
+`&logo=${encodeURIComponent(foto)}` +
+`&cargo=${encodeURIComponent(cargo)}` +
+`&vip=${encodeURIComponent(
+vipAlvo
+? 'sɪᴍ ✅'
+: 'ɴᴀᴏ ❌'
+)}` +
+`&bio=${encodeURIComponent(bio)}` +
+`&apikey=${encodeURIComponent(API_KEY_TOKITO)}`
+
+const texto =
+mess.perfilUsuario({
+nick,
+dadosRegistro: registroPerfil,
+numero: `@${numero}`,
+bio,
+cargo,
+vip:
+vipAlvo
+? 'sɪᴍ ✅'
+: 'ɴᴀᴏ ❌',
+chat:
+isGroup
+? 'ɢʀᴜᴘᴏ'
+: 'ᴘʀɪᴠᴀᴅᴏ',
+grupo:
+isGroup
+? groupName
+: 'ᴄᴏɴᴠᴇʀsᴀ ᴘʀɪᴠᴀᴅᴀ',
+nivelGado,
+celular,
+nivelPuta,
+gostosura,
+programa,
+coins: saldoPerfil,
+cidade: cidadePerfil,
+pet: petPerfil,
+pokemon: pokemonPerfil,
+nivelRpg: nivelPerfil,
+classe: classePerfil,
+arma: armaPerfil,
+guilda: guildaPerfil,
+torre: torrePerfil
+})
+
+const botoes = [
+{
+texto: '🍁﹚𝐏𝐈𝐍𝐆﹙🍁',
+id: `${prefix}ping`
+},
+{
+texto: '🩵﹚𝐌𝐄𝐍𝐔﹙🩵',
+id: `${prefix}menu`
+}
+]
+
+if (!isBotoes) {
+await tokito.sendMessage(
+from,
+{
+image: {
+url: cardPerfil
+},
+caption: texto,
+mentions: [
+alvo
+],
+contextInfo:
+canalInfo([
+alvo
+])
+},
+{
+quoted: selo
+}
+)
+
+return
+}
+
+const media =
+await prepareWAMessageMedia(
+{
+image: {
+url: cardPerfil
+}
+},
+{
+upload:
+tokito.waUploadToServer
+}
+)
+
+const msg =
+generateWAMessageFromContent(
+from,
+{
+interactiveMessage:
+proto.Message.InteractiveMessage.create({
+contextInfo: {
+...canalInfo([
+alvo
+]),
+mentionedJid: [
+alvo
+]
+},
+
+header:
+proto.Message.InteractiveMessage.Header.create({
+hasMediaAttachment: true,
+imageMessage:
+media.imageMessage
+}),
+
+body:
+proto.Message.InteractiveMessage.Body.create({
+text: texto
+}),
+
+footer:
+proto.Message.InteractiveMessage.Footer.create({
+text: ''
+}),
+
+nativeFlowMessage:
+proto.Message.InteractiveMessage.NativeFlowMessage.create({
+buttons:
+enviarbuton(
+botoes
+)
+})
+})
+},
+{
+quoted: selo,
+userJid:
+tokito.user.id
+}
+)
+
+await tokito.relayMessage(
+from,
+msg.message,
+{
+messageId:
+msg.key.id
+}
+)
+
+}
+catch (e) {
+console.log(
+'[PERFIL API]',
+modulos.sanitizarErro(
+e,
+[
+API_KEY_TOKITO
+]
+)
+)
+
+reply(
+mess.erroApi(
+API_URL
+)
+)
+}
+
+return
+}
+}
+}
+}
+)

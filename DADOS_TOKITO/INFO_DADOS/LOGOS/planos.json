@@ -1,0 +1,44 @@
+[
+  {
+    "id": "7d",
+    "nome": "Plano 7 dias",
+    "preco": 7,
+    "dias": 7
+  },
+  {
+    "id": "15d",
+    "nome": "Plano 15 dias",
+    "preco": 15,
+    "dias": 15
+  },
+  {
+    "id": "20d",
+    "nome": "Plano 20 dias",
+    "preco": 20,
+    "dias": 20
+  },
+  {
+    "id": "30d",
+    "nome": "Plano 30 dias",
+    "preco": 30,
+    "dias": 30
+  },
+  {
+    "id": "40d",
+    "nome": "Plano 40 dias",
+    "preco": 40,
+    "dias": 40
+  },
+  {
+    "id": "50d",
+    "nome": "Plano 50 dias",
+    "preco": 50,
+    "dias": 50
+  },
+  {
+    "id": "60d",
+    "nome": "Plano 60 dias",
+    "preco": 60,
+    "dias": 60
+  }
+]

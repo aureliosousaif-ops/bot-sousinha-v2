@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+DADOS_TOKITO/database/qrcode/*
+!DADOS_TOKITO/database/qrcode/.gitkeep
+DADOS_TOKITO/database/grupos/*.json
+DADOS_TOKITO/database/sistemas/*.json
