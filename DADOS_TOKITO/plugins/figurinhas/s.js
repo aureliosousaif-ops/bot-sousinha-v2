@@ -47,8 +47,8 @@ const RSM = info.message?.extendedTextMessage?.contextInfo?.quotedMessage
 const img = RSM?.imageMessage || info.message?.imageMessage || RSM?.viewOnceMessageV2?.message?.imageMessage || info.message?.viewOnceMessageV2?.message?.imageMessage || RSM?.viewOnceMessage?.message?.imageMessage || info.message?.viewOnceMessage?.message?.imageMessage
 const vid = RSM?.videoMessage || info.message?.videoMessage || RSM?.viewOnceMessageV2?.message?.videoMessage || info.message?.viewOnceMessageV2?.message?.videoMessage || RSM?.viewOnceMessage?.message?.videoMessage || info.message?.viewOnceMessage?.message?.videoMessage
 const dados = {
-packname: `🧊 ${NomeDoBot}`,
-author: pushname
+packname: '╭━━━〔 💗 SOUSINHA BOT 〕━━━╮',
+author: '┃   ✦ Powered by Sousinha Bot ✦ ┃\n╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯'
 }
 if (img) {
 const buffer = await getFileBuffer(img, 'image')

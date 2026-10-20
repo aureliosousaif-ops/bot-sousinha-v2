@@ -51,15 +51,15 @@ try {
 if (ctx.command === 'brat') {
 const url = `${ctx.API_URL}/api/stickers/brat-img?text=${encodeURIComponent(texto)}&apikey=${encodeURIComponent(ctx.API_KEY_TOKITO)}`
 const a = await ctx.sendImageAsSticker2(ctx.tokito, ctx.from, url, ctx.selo, {
-packname: `🧊 ${ctx.NomeDoBot}`,
-author: ctx.pushname
+packname: '╭━━━〔 💗 SOUSINHA BOT 〕━━━╮',
+author: '┃   ✦ Powered by Sousinha Bot ✦ ┃\n╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯'
 })
 return ctx.DLT_FL(a)
 }
 const url = `${ctx.API_URL}/api/stickers/brat-vid?text=${encodeURIComponent(texto)}&apikey=${encodeURIComponent(ctx.API_KEY_TOKITO)}`
 const a = await ctx.sendVideoAsSticker2(ctx.tokito, ctx.from, url, ctx.selo, {
-packname: `🧊 ${ctx.NomeDoBot}`,
-author: ctx.pushname
+packname: '╭━━━〔 💗 SOUSINHA BOT 〕━━━╮',
+author: '┃   ✦ Powered by Sousinha Bot ✦ ┃\n╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯'
 })
 return ctx.DLT_FL(a)
 }

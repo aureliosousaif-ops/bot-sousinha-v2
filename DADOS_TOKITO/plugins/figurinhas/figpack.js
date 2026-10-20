@@ -108,7 +108,7 @@ const texto =
 `- 🧊 \`𝙵𝙸𝙶𝙿𝙰𝙲𝙺 𝙴𝙼 𝙼𝙾𝙽𝚃𝙰𝙶𝙴𝙼\`\n\n` +
 `> *『 𝙿𝙰𝙲𝙺 』— ${sessao.nome}*\n` +
 `> *『 𝙸𝙼𝙰𝙶𝙴𝙽𝚂 』— ${sessao.arquivos.length}/${MAX_FIGURINHAS}*\n` +
-`> *『 𝙰𝚂𝚂𝙸𝙽𝙰𝚃𝚄𝚁𝙰 』— Channel - Tokito Apis*` +
+`> *『 𝙰𝚂𝚂𝙸𝙽𝙰𝚃𝚄𝚁𝙰 』— 💗 Sousinha Bot • Powered by Sousinha Bot*` +
 (textoExtra ? `\n\n> *${textoExtra}*` : '')
 return ctx.tokito.sendMessage(
 ctx.from,
@@ -194,7 +194,7 @@ return ctx.reply(
 `- ✅ \`𝙵𝙸𝙶𝙿𝙰𝙲𝙺 𝙸𝙽𝙸𝙲𝙸𝙰𝙳𝙾\`\n\n` +
 `> *『 𝙿𝙰𝙲𝙺 』— ${sessao.nome}*\n` +
 `> *『 𝙸𝙼𝙰𝙶𝙴𝙽𝚂 』— ${sessao.arquivos.length}/${MAX_FIGURINHAS}*\n` +
-`> *『 𝙰𝚂𝚂𝙸𝙽𝙰𝚃𝚄𝚁𝙰 』— Channel - Tokito Apis*\n\n` +
+`> *『 𝙰𝚂𝚂𝙸𝙽𝙰𝚃𝚄𝚁𝙰 』— 💗 Sousinha Bot • Powered by Sousinha Bot*\n\n` +
 `> *ᴀɢᴏʀᴀ ᴇɴᴠɪᴇ sᴜᴀs ɪᴍᴀɢᴇɴs ᴏᴜ ᴀ́ʟʙᴜɴs. ǫᴜᴀɴᴅᴏ ǫᴜɪsᴇʀ ᴄᴏɴᴄʟᴜɪʀ, ᴜsᴇ ${ctx.prefix}figpack gerar.*`
 )
 }
@@ -232,7 +232,7 @@ return ctx.reply(
 `- ✅ \`𝙵𝙸𝙶𝙿𝙰𝙲𝙺 𝙿𝚁𝙾𝙽𝚃𝙾\`\n\n` +
 `> *『 𝙿𝙰𝙲𝙺 』— ${sessao.nome}*\n` +
 `> *『 𝙵𝙸𝙶𝚄𝚁𝙸𝙽𝙷𝙰𝚂 』— ${total}/${MAX_FIGURINHAS}*\n` +
-`> *『 𝙰𝚂𝚂𝙸𝙽𝙰𝚃𝚄𝚁𝙰 』— Channel - Tokito Apis*`
+`> *『 𝙰𝚂𝚂𝙸𝙽𝙰𝚃𝚄𝚁𝙰 』— 💗 Sousinha Bot • Powered by Sousinha Bot*`
 )
 }
 catch (error) {

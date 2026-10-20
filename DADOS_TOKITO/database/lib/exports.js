@@ -121,41 +121,41 @@ const pasta = runtimeSub.mediaDir
 
 const fuso = 'America/Fortaleza'
 
- const jidDoParticipante = participante => {
- const candidatos = [
- participante?.phoneNumber,
- participante?.participantPn,
- participante?.participantAlt,
- participante?.senderAlt,
- participante?.jid,
- participante?.id,
- participante?.participant,
- participante?.lid
- ]
- const preenchidos = candidatos.filter(item => item !== undefined && item !== null && String(item).trim())
- const valor = preenchidos.find(item => {
- const texto = String(item).trim()
- return !texto.includes('@lid') && (texto.endsWith('@s.whatsapp.net') || texto.endsWith('@c.us') || /^\+?[\d\s().-]+$/.test(texto))
- }) || preenchidos[0]
- if (!valor) return ''
- let jid = String(valor).trim()
- if (jid.endsWith('@c.us')) jid = jid.replace(/@c\.us$/, '@s.whatsapp.net')
- return jidNormalizedUser(jid)
- }
+const jidDoParticipante = participante => {
+const candidatos = [
+participante?.phoneNumber,
+participante?.participantPn,
+participante?.participantAlt,
+participante?.senderAlt,
+participante?.jid,
+participante?.id,
+participante?.participant,
+participante?.lid
+]
+const preenchidos = candidatos.filter(item => item !== undefined && item !== null && String(item).trim())
+const valor = preenchidos.find(item => {
+const texto = String(item).trim()
+return !texto.includes('@lid') && (texto.endsWith('@s.whatsapp.net') || texto.endsWith('@c.us') || /^\+?[\d\s().-]+$/.test(texto))
+}) || preenchidos[0]
+if (!valor) return ''
+let jid = String(valor).trim()
+if (jid.endsWith('@c.us')) jid = jid.replace(/@c\.us$/, '@s.whatsapp.net')
+return jidNormalizedUser(jid)
+}
 
- function getGroupAdmins(participants = []) {
- return [...new Set(participants
- .filter(p => p?.admin === 'admin' || p?.admin === 'superadmin')
- .map(jidDoParticipante)
- .filter(Boolean))]
- }
+function getGroupAdmins(participants = []) {
+return [...new Set(participants
+.filter(p => p?.admin === 'admin' || p?.admin === 'superadmin')
+.map(jidDoParticipante)
+.filter(Boolean))]
+}
 
- function getMembros(participants = []) {
- return [...new Set(participants
- .filter(p => !p?.admin)
- .map(jidDoParticipante)
- .filter(Boolean))]
- }
+function getMembros(participants = []) {
+return [...new Set(participants
+.filter(p => !p?.admin)
+.map(jidDoParticipante)
+.filter(Boolean))]
+}
 
 const getRandom = ext => `${Math.floor(Math.random() * 10000)}${ext}`
 

@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/TOKITO%20APIS-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 
-  <a href="https://whatsapp.com/channel/0029VbBbHVs7oQhTLxKWBW2q">
+  <a href="https://whatsapp.com/channel/0029VbDxPZk6xCSK2ITDq726">
     <img src="https://img.shields.io/badge/CANAL-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 
@@ -36,12 +36,6 @@
 </div>
 
 ---
-
-## Sousinha Bot Premium
-
-Esta distribuição utiliza a identidade visual **Sousinha Bot**, personalizada por **Sousax7**, sobre o projeto-base TokitoBot V10. O **autor original é Dylan Modz**; seus créditos e a licença original permanecem preservados.
-
-O recurso visual oficial do bot está em `DADOS_TOKITO/INFO_DADOS/LOGOS/fotomenu.png` e é usado pelo menu principal quando a mídia está disponível.
 
 ## 🧊 ATENÇÃO
 
@@ -307,7 +301,7 @@ Exemplo:
   "NomeDoBot": "𝑻𝒐𝒌𝒊𝒕𝒐𝑩𝒐𝒕-𝑽10-𝑴𝑫",
   "ownerName": "NICK_DONO",
   "channeldl": "120363421690941003@newsletter",
-  "channel": "https://whatsapp.com/channel/0029VbBbHVs7oQhTLxKWBW2q",
+  "channel": "https://whatsapp.com/channel/0029VbDxPZk6xCSK2ITDq726",
   "API_URL": "https://tokito-apis.com.br",
   "API_KEY_TOKITO": "TOKEN_API_TOKITO",
   "ownerNumber": "NUMERO_DONO",
@@ -341,7 +335,7 @@ A API é utilizada por diversos sistemas e comandos presentes no bot.
 Acompanhe novidades, avisos e atualizações do TokitoBot-V10:
 
 ```text
-https://whatsapp.com/channel/0029VbBbHVs7oQhTLxKWBW2q
+https://whatsapp.com/channel/0029VbDxPZk6xCSK2ITDq726
 ```
 
 ---

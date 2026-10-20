@@ -1,7 +1,25 @@
 node_modules/
+.work/
 .env
-*.log
+.env.*
+!.env.example
+
+# Sessões e autenticação do WhatsApp
+auth_info/
+session/
+sessions/
+baileys_store/
+creds.json
+*session*
+*auth_info*
+*.qr
+qr.png
 DADOS_TOKITO/database/qrcode/*
 !DADOS_TOKITO/database/qrcode/.gitkeep
-DADOS_TOKITO/database/grupos/*.json
-DADOS_TOKITO/database/sistemas/*.json
+DADOS_TOKITO/INFO_DADOS/config-all.json
+
+# Logs e arquivos temporários
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db

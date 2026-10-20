@@ -171,15 +171,15 @@ const criarExif = metadata => {
 const json = {
 'sticker-pack-id':
 metadata?.packId ||
-'TOKITOBOT-V10',
+'SOUSINHA-BOT',
 
 'sticker-pack-name':
 metadata?.packname ||
-'TokitoBot V10',
+'╭━━━〔 💗 SOUSINHA BOT 〕━━━╮',
 
 'sticker-pack-publisher':
 metadata?.author ||
-'dylan Modz',
+'┃   ✦ Powered by Sousinha Bot ✦ ┃\n╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯',
 
 'emojis':
 Array.isArray(metadata?.categories)

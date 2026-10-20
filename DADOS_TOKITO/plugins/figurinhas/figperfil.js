@@ -176,8 +176,8 @@ from,
 fotoPerfil,
 selo,
 {
-packname: pushname,
-author: NomeDoBot
+packname: '╭━━━〔 💗 SOUSINHA BOT 〕━━━╮',
+author: '┃   ✦ Powered by Sousinha Bot ✦ ┃\n╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯'
 }
 )
 

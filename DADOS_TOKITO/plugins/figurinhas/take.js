@@ -37,8 +37,8 @@ const st = ctx => ctx.ctxMsg?.quotedMessage?.stickerMessage || ctx.mensagem?.sti
 const dados = s => {
 const [packname, author] = String(s || '').split('|').map(v => String(v || '').trim())
 return {
-packname: packname || 'TokitoBot-MD',
-author: author || 'Dylan Modz'
+packname: packname || '╭━━━〔 💗 SOUSINHA BOT 〕━━━╮',
+author: author || '┃   ✦ Powered by Sousinha Bot ✦ ┃\n╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯'
 }
 }
 
@@ -87,8 +87,8 @@ titulo: 'ERRO NA FIGURINHA',
 descricao: 'Não consegui baixar a figurinha.'
 }))
 const d = ctx.command === 'rename' ? dados(ctx.q) : (db[id] || {
-packname: `🧊 ${ctx.NomeDoBot}`,
-author: ctx.pushname || 'Dylan Modz'
+packname: '╭━━━〔 💗 SOUSINHA BOT 〕━━━╮',
+author: '┃   ✦ Powered by Sousinha Bot ✦ ┃\n╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯'
 })
 let arq
 try {

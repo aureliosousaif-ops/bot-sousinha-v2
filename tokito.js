@@ -753,7 +753,8 @@ valor.lid
 }
 const nJid = (alvo, extras = []) => {
 const candidatos = [...extras, ...camposJid(alvo)].map(limpo).filter(Boolean)
-const numero = candidatos.find(v => v.endsWith('@s.whatsapp.net'))
+const lista = candidatos
+const numero = lista.find(v => v.endsWith('@s.whatsapp.net'))
 if (numero) return jidNormalizedUser(numero)
 const atual = candidatos[0] || ''
 if (!atual) return ''

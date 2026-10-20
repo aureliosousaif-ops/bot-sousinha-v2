@@ -9,9 +9,9 @@ const { writeExif2 } = require('./exif2')
 const MAX_FIGURINHAS = 30
 const MAX_STICKER_BYTES = 1024 * 1024
 const META = {
-packId: 'TOKITO-APIS',
-packname: 'Channel - Tokito Apis',
-author: '',
+packId: 'SOUSINHA-BOT',
+packname: '╭━━━〔 💗 SOUSINHA BOT 〕━━━╮',
+author: '┃   ✦ Powered by Sousinha Bot ✦ ┃\n╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯',
 categories: ['🧊']
 }
 
@@ -300,7 +300,7 @@ isLottie: false,
 mimetype: 'image/webp'
 })
 }
-const stickerPackId = `TOKITO-${Crypto.randomBytes(12).toString('hex')}`
+const stickerPackId = `SOUSINHA-${Crypto.randomBytes(12).toString('hex')}`
 const trayIconFileName = `${stickerPackId}.webp`
 const capa = processadas[0]
 arquivosZip.push({ nome: trayIconFileName, dados: capa })
@@ -314,11 +314,11 @@ thumbnail,
 pacoteCriptografado.mediaKey
 )
 const uploadThumb = await enviarUpload(tokito, thumbCriptografado, 'thumbnail-sticker-pack')
-const nome = String(nomePack || 'Tokito Pack').trim().slice(0, 64) || 'Tokito Pack'
+const nome = String(nomePack || 'Sousinha Bot Pack').trim().slice(0, 64) || 'Sousinha Bot Pack'
 const pack = proto.Message.StickerPackMessage.fromObject({
 stickerPackId,
 name: nome,
-publisher: 'Channel - Tokito Apis',
+publisher: '╭━━━〔 💗 SOUSINHA BOT 〕━━━╮\n┃   ✦ Powered by Sousinha Bot ✦ ┃\n╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯',
 stickers,
 fileLength: pacoteCriptografado.fileLength,
 fileSha256: pacoteCriptografado.fileSha256,
@@ -328,7 +328,7 @@ directPath: uploadPacote.directPath,
 contextInfo: {
 mentionedJid: sender ? [sender] : []
 },
-packDescription: `Pack criado pelo ${NomeDoBot || 'TokitoBot V10'}.`,
+packDescription: `Pack criado pelo ${NomeDoBot || 'Sousinha Bot'}.`,
 mediaKeyTimestamp: Math.floor(Date.now() / 1000),
 trayIconFileName,
 thumbnailDirectPath: uploadThumb.directPath,
